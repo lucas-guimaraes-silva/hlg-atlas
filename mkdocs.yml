@@ -1,0 +1,55 @@
+site_name: HLG Atlas
+site_description: Trilha aberta de fundamentos em financas para estudantes do ensino medio.
+site_url: https://lucasguimaraes-app.github.io/hlg-atlas/
+repo_url: https://github.com/lucasguimaraes-app/hlg-atlas
+repo_name: hlg-atlas
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Inicio: index.md
+  - Matematica Financeira Essencial:
+      - matematica-financeira/index.md
+      - "Aula 1: Porcentagem e variacao": matematica-financeira/aula-01-porcentagem-e-variacao.md
+      - "Aula 2: Juros simples e compostos": matematica-financeira/aula-02-juros-simples-e-compostos.md
+      - "Aula 3: Inflacao e juros reais": matematica-financeira/aula-03-inflacao-e-juros-reais.md
+      - "Aula 4: Rentabilidade liquida": matematica-financeira/aula-04-rentabilidade-liquida.md
+      - "Aula 5: CDI, Selic e comparacao": matematica-financeira/aula-05-cdi-selic-comparacao.md
+  - Fundamentos em Financas:
+      - fundamentos/index.md
+      - "Aula 1: Mercado financeiro": fundamentos/aula-01-mercado-financeiro.md
+      - "Aula 2: Sistema financeiro brasileiro": fundamentos/aula-02-sistema-financeiro-brasileiro.md
+      - "Aula 3: Tesouro Direto": fundamentos/aula-03-tesouro-direto.md
+      - "Aula 4: CDB, LCI, LCA e FGC": fundamentos/aula-04-renda-fixa-bancaria.md
+      - "Aula 5: Acoes e bolsa": fundamentos/aula-05-acoes-e-bolsa.md
+      - "Aula 6: Fundos e ETFs": fundamentos/aula-06-fundos-e-etfs.md
+      - "Aula 7: FIIs": fundamentos/aula-07-fiis.md
+      - "Aula 8: Risco e diversificacao": fundamentos/aula-08-risco-e-diversificacao.md
+      - "Aula 9: Macro para investidores": fundamentos/aula-09-macro-para-investidores.md
+  - Exercicios: exercicios/index.md
+  - Noticias do Mercado: noticias/index.md
+  - Sobre: sobre.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
