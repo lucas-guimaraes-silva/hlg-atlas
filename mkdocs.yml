@@ -1,22 +1,64 @@
 site_name: HLG Atlas
 site_description: Trilha aberta de fundamentos em financas para estudantes do ensino medio.
-site_url: https://lucasguimaraes-app.github.io/hlg-atlas/
-repo_url: https://github.com/lucasguimaraes-app/hlg-atlas
+site_url: https://lucas-guimaraes-silva.github.io/hlg-atlas/
+repo_url: https://github.com/lucas-guimaraes-silva/hlg-atlas
 repo_name: hlg-atlas
 
 theme:
   name: material
   language: pt-BR
+
+  font:
+    text: Plus Jakarta Sans
+    code: JetBrains Mono
+
   palette:
     - scheme: default
-      primary: teal
-      accent: amber
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
   features:
     - navigation.sections
     - navigation.indexes
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
+    - content.tooltips
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lucas-guimaraes-silva/hlg-atlas
 
 nav:
   - Inicio: index.md
@@ -41,15 +83,3 @@ nav:
   - Exercicios: exercicios/index.md
   - Noticias do Mercado: noticias/index.md
   - Sobre: sobre.md
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.arithmatex:
-      generic: true
-
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

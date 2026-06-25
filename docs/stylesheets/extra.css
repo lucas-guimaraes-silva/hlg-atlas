@@ -1,0 +1,252 @@
+/* ─── HLG Atlas — Custom Theme ─────────────────────────────────────── */
+
+/* Cores customizadas para o Material Theme */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #011e50;
+  --md-primary-fg-color--light: #0a2d6e;
+  --md-primary-fg-color--dark:  #010f2a;
+  --md-primary-bg-color:        #ffffff;
+  --md-accent-fg-color:         #ca9e43;
+  --md-accent-fg-color--transparent: rgba(202, 158, 67, 0.15);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #ca9e43;
+  --md-primary-fg-color--light: #e8c06a;
+  --md-primary-fg-color--dark:  #a07830;
+  --md-primary-bg-color:        #011e50;
+  --md-accent-fg-color:         #e8c06a;
+  --md-accent-fg-color--transparent: rgba(232, 192, 106, 0.15);
+  --hlg-navy: #e8eaf6;
+  --hlg-surface: #0d2a5e;
+  --hlg-bg: #071840;
+  --hlg-border: #1a3a7a;
+  --hlg-text: #e8eaf6;
+}
+
+/* Paleta principal */
+:root {
+  --hlg-navy:  #011e50;
+  --hlg-gold:  #ca9e43;
+  --hlg-gold-light: #e8c06a;
+  --hlg-navy-light: #0a2d6e;
+  --hlg-bg:    #f7f8fc;
+  --hlg-surface: #ffffff;
+  --hlg-text:  #1a1f36;
+  --hlg-muted: #6b7280;
+  --hlg-border: #e2e6f0;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+}
+
+/* ─── Header / Navbar ─── */
+.md-header {
+  background-color: var(--hlg-navy) !important;
+  box-shadow: 0 2px 12px rgba(1, 30, 80, 0.18);
+}
+
+.md-header__title {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: #ffffff !important;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 32px;
+}
+
+/* Search bar */
+.md-search__input {
+  border-radius: var(--radius-md) !important;
+  background: rgba(255,255,255,0.12) !important;
+  color: #fff !important;
+}
+
+.md-search__input::placeholder {
+  color: rgba(255,255,255,0.5) !important;
+}
+
+/* ─── Navegação lateral ─── */
+.md-nav__title {
+  color: var(--hlg-navy) !important;
+  font-weight: 700;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.md-nav__link--active {
+  color: var(--hlg-gold) !important;
+  font-weight: 600;
+}
+
+.md-nav__link:hover {
+  color: var(--hlg-gold) !important;
+}
+
+/* ─── Conteúdo principal ─── */
+.md-main {
+  background-color: var(--hlg-bg);
+}
+
+.md-content__inner {
+  background: var(--hlg-surface);
+  border-radius: var(--radius-lg);
+  padding: 2rem 2.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 6px rgba(1, 30, 80, 0.07);
+}
+
+/* Títulos */
+.md-content h1 {
+  color: var(--hlg-navy);
+  font-weight: 800;
+  font-size: 1.9rem;
+  border-bottom: 3px solid var(--hlg-gold);
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.md-content h2 {
+  color: var(--hlg-navy);
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+
+.md-content h3 {
+  color: var(--hlg-navy-light);
+  font-weight: 600;
+}
+
+/* ─── Tabelas ─── */
+.md-typeset table:not([class]) {
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(1,30,80,0.08);
+  border: 1px solid var(--hlg-border);
+  font-size: 0.9rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--hlg-navy) !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid var(--hlg-border);
+}
+
+.md-typeset table:not([class]) tr:last-child td {
+  border-bottom: none;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: #f0f4fb;
+}
+
+/* ─── Admonitions (note, tip, warning) ─── */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: var(--radius-md) !important;
+  border-left-width: 4px !important;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+.md-typeset .note {
+  border-left-color: var(--hlg-gold) !important;
+}
+
+.md-typeset .note > .admonition-title {
+  background-color: rgba(202, 158, 67, 0.12) !important;
+  color: #7a5a10 !important;
+}
+
+.md-typeset .tip {
+  border-left-color: #2ecc71 !important;
+}
+
+/* ─── Code blocks ─── */
+.md-typeset code {
+  border-radius: var(--radius-sm);
+  background: #eef1f8;
+  color: var(--hlg-navy);
+  font-size: 0.88em;
+  padding: 0.15em 0.45em;
+}
+
+.md-typeset pre > code {
+  border-radius: var(--radius-md);
+  background: var(--hlg-navy) !important;
+  color: #e8eaf6 !important;
+}
+
+/* ─── Botões de navegação entre páginas ─── */
+.md-footer-nav__link {
+  border-radius: var(--radius-md);
+  background: var(--hlg-surface);
+  border: 1px solid var(--hlg-border);
+  margin: 0.25rem;
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.md-footer-nav__link:hover {
+  border-color: var(--hlg-gold);
+  box-shadow: 0 2px 8px rgba(202, 158, 67, 0.2);
+}
+
+/* ─── Footer ─── */
+.md-footer {
+  background-color: var(--hlg-navy);
+}
+
+.md-footer-meta {
+  background-color: rgba(0,0,0,0.15);
+}
+
+/* ─── Tags / badges customizados ─── */
+.hlg-badge {
+  display: inline-block;
+  background: var(--hlg-gold);
+  color: var(--hlg-navy);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.2em 0.7em;
+  border-radius: 999px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+
+/* ─── Fórmulas MathJax ─── */
+.MathJax {
+  font-size: 1.05em !important;
+}
+
+/* ─── Scrollbar sutil ─── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--hlg-bg);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--hlg-border);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--hlg-gold);
+}
+
+/* ─── Mobile ─── */
+@media screen and (max-width: 76.25em) {
+  .md-content__inner {
+    padding: 1.25rem 1rem;
+    border-radius: var(--radius-md);
+  }
+}
