@@ -12,4 +12,4 @@ Cada aula deve ter:
 
 ## Primeira lista
 
-Em construcao: lista das aulas de Matematica Financeira Essencial e das aulas 1 a 3 de Fundamentos em Financas.
+Em construcao: lista das aulas de Matemática (Níveis 1 e 2) e das aulas 1 a 3 de Fundamentos em Financas.

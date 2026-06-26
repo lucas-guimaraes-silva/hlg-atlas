@@ -4,7 +4,7 @@ Aprenda fundamentos de financas com uma trilha simples, aplicada e feita para es
 
 ## Comece por aqui
 
-Se voce nunca estudou mercado financeiro, comece pela trilha **Matematica Financeira Essencial**. Ela ensina o minimo de calculo necessario para nao travar em juros, inflacao, CDI e comparacao de investimentos.
+Se voce nunca estudou mercado financeiro, comece pela trilha **Matemática — Nível 1 (Álgebra do Zero)** e siga para o **Nível 2 (Aplicada)**. Elas ensinam o minimo de calculo necessario para nao travar em juros, inflacao, CDI e comparacao de investimentos.
 
 Depois, siga para **Fundamentos em Financas**. Essa trilha parte do zero conceitual: o que e mercado financeiro, quem regula o sistema, como funcionam renda fixa, acoes, fundos, FIIs, risco, diversificacao e macroeconomia.
 
@@ -16,10 +16,12 @@ Depois, siga para **Fundamentos em Financas**. Essa trilha parte do zero conceit
 4. Resolva o mini quiz.
 5. Tente o PBL antes de olhar qualquer resposta.
 
-## Trilha disponivel
+## Trilhas
 
-- [Matematica Financeira Essencial](matematica-financeira/index.md)
-- [Fundamentos em Financas](fundamentos/index.md)
+- [Matemática — Nível 1 (Álgebra do Zero)](matematica-nivel-1/index.md)
+- [Matemática — Nível 2 (Aplicada)](matematica-nivel-2/index.md)
+- Matemática — Níveis 3 e 4: em construção
+- [Fundamentos em Finanças](fundamentos/index.md)
 
 ## Para professores e lideres
 

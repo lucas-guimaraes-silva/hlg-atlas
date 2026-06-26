@@ -21,4 +21,4 @@ Ferramentas matemáticas usadas em análise de investimentos real: VPL, TIR, pro
 
 ## Pré-requisito
 
-Concluir o [Nível 2 — Matemática Financeira Aplicada](../matematica-financeira/index.md).
+Concluir o [Nível 2 — Matemática Financeira Aplicada](../matematica-nivel-2/index.md).

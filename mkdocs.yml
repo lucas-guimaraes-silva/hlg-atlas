@@ -72,12 +72,12 @@ nav:
       - "Aula 6: Notacao cientifica": matematica-nivel-1/aula-06-notacao-cientifica.md
       - "Aula 7: Equacoes de 1 grau": matematica-nivel-1/aula-07-equacoes-1-grau.md
   - "Matematica — Nivel 2 (Aplicada)":
-      - matematica-financeira/index.md
-      - "Aula 1: Porcentagem e variacao": matematica-financeira/aula-01-porcentagem-e-variacao.md
-      - "Aula 2: Juros simples e compostos": matematica-financeira/aula-02-juros-simples-e-compostos.md
-      - "Aula 3: Inflacao e juros reais": matematica-financeira/aula-03-inflacao-e-juros-reais.md
-      - "Aula 4: Rentabilidade liquida": matematica-financeira/aula-04-rentabilidade-liquida.md
-      - "Aula 5: CDI, Selic e comparacao": matematica-financeira/aula-05-cdi-selic-comparacao.md
+      - matematica-nivel-2/index.md
+      - "Aula 1: Porcentagem e variacao": matematica-nivel-2/aula-01-porcentagem-e-variacao.md
+      - "Aula 2: Juros simples e compostos": matematica-nivel-2/aula-02-juros-simples-e-compostos.md
+      - "Aula 3: Inflacao e juros reais": matematica-nivel-2/aula-03-inflacao-e-juros-reais.md
+      - "Aula 4: Rentabilidade liquida": matematica-nivel-2/aula-04-rentabilidade-liquida.md
+      - "Aula 5: CDI, Selic e comparacao": matematica-nivel-2/aula-05-cdi-selic-comparacao.md
   - "Matematica — Nivel 3 (Analise)":
       - matematica-nivel-3/index.md
   - "Matematica — Nivel 4 (Rigor Matematico)":

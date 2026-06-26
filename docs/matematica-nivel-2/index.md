@@ -1,4 +1,4 @@
-# Matematica Financeira Essencial
+# Nível 2 — Matemática Financeira Aplicada
 
 Esta trilha existe para um motivo simples: ninguem aprende investimentos direito se trava nos calculos basicos.
 

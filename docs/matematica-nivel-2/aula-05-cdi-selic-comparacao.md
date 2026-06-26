@@ -85,4 +85,4 @@ Você precisará do dinheiro possivelmente em 6 meses. Qual produto escolheria e
 - Selic e CDI são as taxas de referência do mercado; CDI ≈ Selic.
 - Percentual do CDI permite comparar produtos em uma mesma régua.
 - Sempre ajuste para rentabilidade líquida: tire IR, considere prazo e liquidez.
-- Com isso, você terminou a trilha de Matemática Financeira Essencial. A próxima trilha aplica tudo isso em produtos reais do mercado financeiro brasileiro.
+- Com isso, você terminou o Nível 2 — Matemática Financeira Aplicada. A próxima trilha (Fundamentos em Finanças) aplica tudo isso em produtos reais do mercado financeiro brasileiro.
