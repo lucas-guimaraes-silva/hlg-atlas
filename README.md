@@ -40,4 +40,4 @@ Projeto em fase inicial. Para contribuir, entre em contato via Issues ou Pull Re
 
 ---
 
-*Baseado nos materiais da BRHSIC Academy. Conteúdo desenvolvido por Lucas Guimarães e colaboradores.*
+*Baseado nos materiais da BRHSIC Academy. Conteúdo desenvolvido por Lucas Guimarães, Herton Pinto, e colaboradores.*
