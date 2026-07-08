@@ -1,7 +1,7 @@
-# Nível 3 — Análise de Investimentos
+# Módulo 3 — Análise de Investimentos
 
 !!! note "Em construção"
-    Este módulo está sendo planejado. O conteúdo será adicionado após a conclusão dos Níveis 1 e 2.
+    Este módulo está sendo planejado. O conteúdo será adicionado após a conclusão dos Módulos 1 e 2.
 
 ## O que vai cobrir
 
@@ -21,4 +21,4 @@ Ferramentas matemáticas usadas em análise de investimentos real: VPL, TIR, pro
 
 ## Pré-requisito
 
-Concluir o [Nível 2 — Matemática Financeira Aplicada](../matematica-nivel-2/index.md).
+Concluir o [Módulo 2 — Matemática Financeira Aplicada](../modulo-2-aplicada/index.md).

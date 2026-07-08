@@ -4,9 +4,9 @@ Aprenda fundamentos de financas com uma trilha simples, aplicada e feita para es
 
 ## Comece por aqui
 
-Se voce nunca estudou mercado financeiro, comece pela trilha **Matemática — Nível 1 (Álgebra do Zero)** e siga para o **Nível 2 (Aplicada)**. Elas ensinam o minimo de calculo necessario para nao travar em juros, inflacao, CDI e comparacao de investimentos.
+Se voce nunca estudou mercado financeiro, comece pela trilha **Matematica Aplicada a Financas**, Modulo 1 (Algebra do Zero), e siga para o Modulo 2 (Aplicada). Eles ensinam o minimo de calculo necessario para nao travar em juros, inflacao, CDI e comparacao de investimentos.
 
-Depois, siga para **Fundamentos em Financas**. Essa trilha parte do zero conceitual: o que e mercado financeiro, quem regula o sistema, como funcionam renda fixa, acoes, fundos, FIIs, risco, diversificacao e macroeconomia.
+Depois, siga para **Financas**, comecando pelo Modulo 1: Fundamentos em Financas. Essa trilha parte do zero conceitual: o que e mercado financeiro, quem regula o sistema, como funcionam renda fixa, acoes, fundos, FIIs, risco, diversificacao e macroeconomia.
 
 ## Como estudar
 
@@ -18,10 +18,12 @@ Depois, siga para **Fundamentos em Financas**. Essa trilha parte do zero conceit
 
 ## Trilhas
 
-- [Matemática — Nível 1 (Álgebra do Zero)](matematica-nivel-1/index.md)
-- [Matemática — Nível 2 (Aplicada)](matematica-nivel-2/index.md)
-- Matemática — Níveis 3 e 4: em construção
-- [Fundamentos em Finanças](fundamentos/index.md)
+- [Matemática Aplicada a Finanças — Módulo 1: Álgebra do Zero](matematica-aplicada-a-financas/modulo-1-algebra-do-zero/index.md)
+- [Matemática Aplicada a Finanças — Módulo 2: Aplicada](matematica-aplicada-a-financas/modulo-2-aplicada/index.md)
+- Matemática Aplicada a Finanças — Módulos 3 e 4: em construção
+- [Finanças — Módulo 1: Fundamentos em Finanças](financas/modulo-1-fundamentos/index.md)
+- Finanças — Módulos 2 e 3: em construção
+- Preparação BRHSIC: em construção
 
 ## Para professores e lideres
 

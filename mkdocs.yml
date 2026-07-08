@@ -62,39 +62,42 @@ extra:
 
 nav:
   - Inicio: index.md
-  - "Matematica — Nivel 1 (Algebra do Zero)":
-      - matematica-nivel-1/index.md
-      - "Aula 1: Numeros e operacoes": matematica-nivel-1/aula-01-numeros-e-operacoes.md
-      - "Aula 2: Fracoes e decimais": matematica-nivel-1/aula-02-fracoes-e-decimais.md
-      - "Aula 3: Porcentagem na vida real": matematica-nivel-1/aula-03-porcentagem-na-vida-real.md
-      - "Aula 4: Regra de tres": matematica-nivel-1/aula-04-regra-de-tres.md
-      - "Aula 5: Potencias e raizes": matematica-nivel-1/aula-05-potencias-e-raizes.md
-      - "Aula 6: Notacao cientifica": matematica-nivel-1/aula-06-notacao-cientifica.md
-      - "Aula 7: Equacoes de 1 grau": matematica-nivel-1/aula-07-equacoes-1-grau.md
-  - "Matematica — Nivel 2 (Aplicada)":
-      - matematica-nivel-2/index.md
-      - "Aula 1: Porcentagem e variacao": matematica-nivel-2/aula-01-porcentagem-e-variacao.md
-      - "Aula 2: Juros simples e compostos": matematica-nivel-2/aula-02-juros-simples-e-compostos.md
-      - "Aula 3: Inflacao e juros reais": matematica-nivel-2/aula-03-inflacao-e-juros-reais.md
-      - "Aula 4: Rentabilidade liquida": matematica-nivel-2/aula-04-rentabilidade-liquida.md
-      - "Aula 5: CDI, Selic e comparacao": matematica-nivel-2/aula-05-cdi-selic-comparacao.md
-  - "Matematica — Nivel 3 (Analise)":
-      - matematica-nivel-3/index.md
-  - "Matematica — Nivel 4 (Rigor Matematico)":
-      - matematica-nivel-4/index.md
-  - Fundamentos em Financas:
-      - fundamentos/index.md
-      - "Modulo 1 - BRHSIC (oficial)":
-          - "Aula 1: Mercado financeiro": fundamentos/aula-01-mercado-financeiro.md
-          - "Aula 2: Sistema financeiro brasileiro": fundamentos/aula-02-sistema-financeiro-brasileiro.md
-          - "Aula 3: Tesouro Direto": fundamentos/aula-03-tesouro-direto.md
-          - "Aula 4: CDB, LCI, LCA e FGC": fundamentos/aula-04-renda-fixa-bancaria.md
-          - "Aula 5: Acoes e bolsa": fundamentos/aula-05-acoes-e-bolsa.md
-      - "Extensao HLG Atlas (bonus)":
-          - "Aula 6: Fundos e ETFs": fundamentos/aula-06-fundos-e-etfs.md
-          - "Aula 7: FIIs": fundamentos/aula-07-fiis.md
-          - "Aula 8: Risco e diversificacao": fundamentos/aula-08-risco-e-diversificacao.md
-          - "Aula 9: Macro para investidores": fundamentos/aula-09-macro-para-investidores.md
+  - Matematica Aplicada a Financas:
+      - matematica-aplicada-a-financas/index.md
+      - "Modulo 1: Algebra do Zero":
+          - matematica-aplicada-a-financas/modulo-1-algebra-do-zero/index.md
+          - "Aula 1: Numeros e operacoes": matematica-aplicada-a-financas/modulo-1-algebra-do-zero/aula-01-numeros-e-operacoes.md
+          - "Aula 2: Fracoes e decimais": matematica-aplicada-a-financas/modulo-1-algebra-do-zero/aula-02-fracoes-e-decimais.md
+          - "Aula 3: Porcentagem na vida real": matematica-aplicada-a-financas/modulo-1-algebra-do-zero/aula-03-porcentagem-na-vida-real.md
+          - "Aula 4: Regra de tres": matematica-aplicada-a-financas/modulo-1-algebra-do-zero/aula-04-regra-de-tres.md
+          - "Aula 5: Potencias e raizes": matematica-aplicada-a-financas/modulo-1-algebra-do-zero/aula-05-potencias-e-raizes.md
+          - "Aula 6: Notacao cientifica": matematica-aplicada-a-financas/modulo-1-algebra-do-zero/aula-06-notacao-cientifica.md
+          - "Aula 7: Equacoes de 1 grau": matematica-aplicada-a-financas/modulo-1-algebra-do-zero/aula-07-equacoes-1-grau.md
+      - "Modulo 2: Matematica Financeira Aplicada":
+          - matematica-aplicada-a-financas/modulo-2-aplicada/index.md
+          - "Aula 1: Porcentagem e variacao": matematica-aplicada-a-financas/modulo-2-aplicada/aula-01-porcentagem-e-variacao.md
+          - "Aula 2: Juros simples e compostos": matematica-aplicada-a-financas/modulo-2-aplicada/aula-02-juros-simples-e-compostos.md
+          - "Aula 3: Inflacao e juros reais": matematica-aplicada-a-financas/modulo-2-aplicada/aula-03-inflacao-e-juros-reais.md
+          - "Aula 4: Rentabilidade liquida": matematica-aplicada-a-financas/modulo-2-aplicada/aula-04-rentabilidade-liquida.md
+          - "Aula 5: CDI, Selic e comparacao": matematica-aplicada-a-financas/modulo-2-aplicada/aula-05-cdi-selic-comparacao.md
+      - "Modulo 3: Analise de Investimentos": matematica-aplicada-a-financas/modulo-3-analise/index.md
+      - "Modulo 4: Fundamentos Matematicos Rigorosos": matematica-aplicada-a-financas/modulo-4-rigor-matematico/index.md
+  - Financas:
+      - financas/index.md
+      - "Modulo 1: Fundamentos em Financas":
+          - financas/modulo-1-fundamentos/index.md
+          - "Aula 1: Mercado financeiro": financas/modulo-1-fundamentos/aula-01-mercado-financeiro.md
+          - "Aula 2: Sistema financeiro brasileiro": financas/modulo-1-fundamentos/aula-02-sistema-financeiro-brasileiro.md
+          - "Aula 3: Tesouro Direto": financas/modulo-1-fundamentos/aula-03-tesouro-direto.md
+          - "Aula 4: CDB, LCI, LCA e FGC": financas/modulo-1-fundamentos/aula-04-renda-fixa-bancaria.md
+          - "Aula 5: Acoes e bolsa": financas/modulo-1-fundamentos/aula-05-acoes-e-bolsa.md
+          - "Aula 6: Fundos e ETFs": financas/modulo-1-fundamentos/aula-06-fundos-e-etfs.md
+          - "Aula 7: FIIs": financas/modulo-1-fundamentos/aula-07-fiis.md
+          - "Aula 8: Risco e diversificacao": financas/modulo-1-fundamentos/aula-08-risco-e-diversificacao.md
+          - "Aula 9: Macro para investidores": financas/modulo-1-fundamentos/aula-09-macro-para-investidores.md
+      - "Modulo 2: Analise Fundamentalista de Empresas": financas/modulo-2-analise-fundamentalista/index.md
+      - "Modulo 3: Montagem de Portfolio e Investimento": financas/modulo-3-portfolio/index.md
+  - Preparacao BRHSIC: preparacao-brhsic/index.md
   - Exercicios: exercicios/index.md
   - Noticias do Mercado: noticias/index.md
   - Sobre: sobre.md

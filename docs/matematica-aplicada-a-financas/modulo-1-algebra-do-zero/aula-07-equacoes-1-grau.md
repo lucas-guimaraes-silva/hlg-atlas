@@ -56,4 +56,4 @@ $$
 - Equação de 1º grau isola uma incógnita usando operações inversas.
 - Regra fundamental: o que faz de um lado, faz do outro.
 - Em finanças: toda pergunta "quanto preciso de X pra ter Y" é uma equação.
-- Parabéns — você concluiu o Nível 1. O próximo passo é o [Nível 2 — Matemática Financeira Aplicada](../matematica-nivel-2/index.md).
+- Parabéns — você concluiu o Módulo 1. O próximo passo é o [Módulo 2 — Matemática Financeira Aplicada](../modulo-2-aplicada/index.md).

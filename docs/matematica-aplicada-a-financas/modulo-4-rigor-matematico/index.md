@@ -1,7 +1,7 @@
-# Nível 4 — Fundamentos Matemáticos Rigorosos
+# Módulo 4 — Fundamentos Matemáticos Rigorosos
 
 !!! note "Em construção"
-    Este módulo está sendo planejado. O conteúdo será adicionado após a conclusão dos Níveis 1, 2 e 3.
+    Este módulo está sendo planejado. O conteúdo será adicionado após a conclusão dos Módulos 1, 2 e 3.
 
 ## O que vai cobrir
 
@@ -22,4 +22,4 @@ Demonstrações formais com cálculo diferencial e integral aplicadas a finança
 
 ## Pré-requisito
 
-Concluir o [Nível 3 — Análise de Investimentos](../matematica-nivel-3/index.md).
+Concluir o [Módulo 3 — Análise de Investimentos](../modulo-3-analise/index.md).

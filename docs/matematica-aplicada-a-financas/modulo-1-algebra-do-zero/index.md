@@ -1,4 +1,4 @@
-# Nível 1 — Álgebra do Zero
+# Módulo 1 — Álgebra do Zero
 
 Esta trilha existe para um motivo simples: não dá pra aprender finanças sem entender os números por trás.
 
