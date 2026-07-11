@@ -16,19 +16,22 @@ O projeto nasceu do Núcleo de Inteligência Financeira (NIF) fundado na Escola 
 
 O conteúdo está organizado em trilhas progressivas:
 
-**Matemática Financeira**
-- Nível 1 — Álgebra do Zero (para quem começa do início)
-- Nível 2 — Matemática Financeira Aplicada
-- Nível 3 — Análise de Investimentos *(em construção)*
-- Nível 4 — Fundamentos Matemáticos Rigorosos *(em construção)*
+**Matemática Aplicada a Finanças**
+- Módulo 1 — Álgebra do Zero (para quem começa do início)
+- Módulo 2 — Matemática Financeira Aplicada
+- Módulo 3 — Funções, Progressões e Probabilidade
+- Módulo 4 — Estatística e Regressão Linear
 
-**Fundamentos em Finanças**
-- Módulo 1 — BRHSIC (baseado nos materiais da BRHSIC Academy)
-- Extensão HLG Atlas
+**Finanças**
+- Módulo 1 — Fundamentos em Finanças (baseado nos materiais da BRHSIC Academy)
+- Módulo 2 — Análise Fundamentalista de Empresas
+- Módulo 3 — Montagem de Portfólio e Investimento
+
+**Preparação BRHSIC** *(em construção)*
 
 ## Status
 
-MVP em desenvolvimento. Primeiros módulos de Matemática e Fundamentos em Finanças publicados.
+MVP em desenvolvimento. Trilhas de Matemática (4 módulos) e Finanças (3 módulos) publicadas; Preparação BRHSIC em planejamento.
 
 ## Tecnologia
 

@@ -1,12 +1,12 @@
-# Aula 1: O que e o mercado financeiro?
+# Aula 1: O que é o mercado financeiro?
 
 ## Comece aqui
 
-Mercado financeiro e o sistema que conecta quem tem dinheiro sobrando com quem precisa de dinheiro. Quem investe quer retorno. Quem capta dinheiro quer financiar projetos, empresas, consumo ou governo.
+Mercado financeiro é o sistema que conecta quem tem dinheiro sobrando com quem precisa de dinheiro. Quem investe quer retorno. Quem capta dinheiro quer financiar projetos, empresas, consumo ou governo.
 
 ## Ideia central
 
-Investir nao e "apertar botoes em um app". Investir e decidir para onde seu dinheiro vai, por quanto tempo, com qual risco e esperando qual retorno.
+Investir não é "apertar botões em um app". Investir é decidir para onde seu dinheiro vai, por quanto tempo, com qual risco e esperando qual retorno.
 
 ## Conceitos essenciais
 
@@ -17,11 +17,11 @@ Investir nao e "apertar botoes em um app". Investir e decidir para onde seu dinh
 | Retorno | Ganho esperado pelo investimento |
 | Risco | Chance de o resultado ser pior que o esperado |
 | Liquidez | Facilidade de transformar o investimento em dinheiro |
-| Juros compostos | Quando o rendimento tambem passa a render |
+| Juros compostos | Quando o rendimento também passa a render |
 
 ## Exemplo resolvido
 
-Imagine que Ana investe R$1.000 por 30 anos a 10% ao ano.
+Imagine que Ana investe R$ 1.000 por 30 anos a 10% ao ano.
 
 Com juros compostos, o dinheiro cresce assim:
 
@@ -31,36 +31,36 @@ $$
 
 Onde:
 
-- \(VF\) e o valor futuro;
-- \(VP\) e o valor presente;
-- \(i\) e a taxa de juros;
-- \(n\) e o numero de periodos.
+- \(VF\) é o valor futuro;
+- \(VP\) é o valor presente;
+- \(i\) é a taxa de juros;
+- \(n\) é o número de períodos.
 
 Aplicando:
 
 $$
-VF = 1000 \times (1+0,10)^{30}
+VF = 1000 \times (1+0{,}10)^{30}
 $$
 
-O ponto importante nao e decorar a formula agora. O ponto e entender a intuicao: tempo transforma rendimento pequeno em resultado grande.
+O ponto importante não é decorar a fórmula agora. O ponto é entender a intuição: tempo transforma rendimento pequeno em resultado grande.
 
 ## Mini quiz
 
 1. O que o mercado financeiro conecta?
-2. Qual e a diferenca entre retorno e risco?
+2. Qual é a diferença entre retorno e risco?
 3. O que significa liquidez?
 4. Por que tempo importa tanto em juros compostos?
-5. Investir e necessariamente coisa de rico? Explique.
+5. Investir é necessariamente coisa de rico? Explique.
 
 ## PBL
 
-Joao tem R$1.000 guardados na poupanca. O Banco Central acabou de subir a taxa Selic.
+João tem R$ 1.000 guardados na poupança. O Banco Central acabou de subir a taxa Selic.
 
-O que muda para Joao? Ele deveria continuar na poupanca ou procurar outra alternativa? Por que?
+O que muda para João? Ele deveria continuar na poupança ou procurar outra alternativa? Por quê?
 
 ## Resumo
 
 - Mercado financeiro conecta investidores e tomadores de dinheiro.
 - Todo investimento envolve risco, retorno e liquidez.
-- Juros compostos fazem o tempo trabalhar a favor de quem comeca cedo.
-- A proxima aula explica quem organiza e regula esse sistema no Brasil.
+- Juros compostos fazem o tempo trabalhar a favor de quem começa cedo.
+- A próxima aula explica quem organiza e regula esse sistema no Brasil.

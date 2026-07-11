@@ -1,9 +1,9 @@
 # Sobre o HLG Atlas
 
-O HLG Atlas e uma iniciativa educacional para tornar financas e investimentos mais acessiveis a estudantes do ensino medio.
+O HLG Atlas é uma iniciativa educacional para tornar finanças e investimentos mais acessíveis a estudantes do ensino médio.
 
-Este MVP adapta a estrutura da BRHSIC Academy/NIF para uma experiencia online simples, com foco em clareza, aplicacao e aprendizado progressivo.
+Este MVP adapta a estrutura da BRHSIC Academy/NIF para uma experiência online simples, com foco em clareza, aplicação e aprendizado progressivo.
 
 ## Status
 
-Este site esta em fase de rascunho. O objetivo inicial e testar a trilha de fundamentos com alunos do NIF da escola Dragao do Mar.
+Este site está em fase de rascunho. O objetivo inicial é testar as trilhas de Matemática Aplicada a Finanças e de Finanças com alunos do NIF da escola Dragão do Mar.
