@@ -1,14 +1,14 @@
-# HLG Atlas
+# Brasil Finanças Atlas
 
 Trilha aberta de educação financeira para estudantes do ensino médio — do zero absoluto até análise de investimentos.
 
-**Site:** https://lucas-guimaraes-silva.github.io/hlg-atlas/
+**Site:** https://lucas-guimaraes-silva.github.io/bfa/
 
 ---
 
 ## O que é
 
-O HLG Atlas é um projeto educacional que adapta os materiais da BRHSIC Academy para uma plataforma online gratuita e acessível. O objetivo é permitir que qualquer estudante — independente de escola ou renda — consiga aprender fundamentos de finanças, investimentos e economia com qualidade.
+O Brasil Finanças Atlas (BFA) é um projeto educacional que adapta os materiais da BRHSIC Academy para uma plataforma online gratuita e acessível. O objetivo é permitir que qualquer estudante — independente de escola ou renda — consiga aprender fundamentos de finanças, investimentos e economia com qualidade.
 
 O projeto nasceu do Núcleo de Inteligência Financeira (NIF) fundado na Escola Pública Dragão do Mar, em Fortaleza-CE.
 

@@ -1,8 +1,8 @@
-site_name: HLG Atlas
+site_name: Brasil Finanças Atlas
 site_description: Trilhas abertas de matemática e finanças para estudantes do ensino médio.
-site_url: https://lucas-guimaraes-silva.github.io/hlg-atlas/
-repo_url: https://github.com/lucas-guimaraes-silva/hlg-atlas
-repo_name: hlg-atlas
+site_url: https://lucas-guimaraes-silva.github.io/bfa/
+repo_url: https://github.com/lucas-guimaraes-silva/bfa
+repo_name: bfa
 
 theme:
   name: material
@@ -58,7 +58,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/lucas-guimaraes-silva/hlg-atlas
+      link: https://github.com/lucas-guimaraes-silva/bfa
 
 nav:
   - Início: index.md

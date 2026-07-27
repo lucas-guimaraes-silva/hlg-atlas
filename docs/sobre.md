@@ -1,6 +1,6 @@
-# Sobre o HLG Atlas
+# Sobre o Brasil Finanças Atlas
 
-O HLG Atlas é uma iniciativa educacional para tornar finanças e investimentos mais acessíveis a estudantes do ensino médio.
+O Brasil Finanças Atlas é uma iniciativa educacional para tornar finanças e investimentos mais acessíveis a estudantes do ensino médio.
 
 Este MVP adapta a estrutura da BRHSIC Academy/NIF para uma experiência online simples, com foco em clareza, aplicação e aprendizado progressivo.
 

@@ -1,4 +1,4 @@
-# HLG Atlas
+# Brasil Finanças Atlas (BFA)
 
 Aprenda matemática e finanças com trilhas simples, aplicadas e feitas para estudantes do ensino médio.
 

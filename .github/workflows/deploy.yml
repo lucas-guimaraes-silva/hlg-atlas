@@ -1,4 +1,4 @@
-name: Deploy HLG Atlas
+name: Deploy Brasil Finanças Atlas
 
 on:
   push:
