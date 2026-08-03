@@ -1,29 +1,81 @@
-# Brasil Finanças Atlas (BFA)
+---
+hide:
+  - navigation
+  - toc
+---
 
-Aprenda matemática e finanças com trilhas simples, aplicadas e feitas para estudantes do ensino médio.
+<div class="bfa-hero" markdown>
 
-## Comece por aqui
+# Aprenda a investir do zero
 
-Se você nunca estudou mercado financeiro, comece pela trilha **Matemática Aplicada a Finanças**, Módulo 1 (Álgebra do Zero), e siga para o Módulo 2 (Aplicada). Eles ensinam o mínimo de cálculo necessário para não travar em juros, inflação, CDI e comparação de investimentos.
+<p class="bfa-hero__sub">
+Matemática e finanças explicadas de um jeito simples, para quem está no ensino médio e nunca estudou o assunto. Gratuito, sem enrolação e no seu ritmo.
+</p>
 
-Depois, siga para **Finanças**, começando pelo Módulo 1: Fundamentos em Finanças. Essa trilha parte do zero conceitual: o que é mercado financeiro, quem regula o sistema, como funcionam renda fixa, ações, fundos, FIIs, risco, diversificação e macroeconomia. Os Módulos 2 e 3 aprofundam: análise fundamentalista de empresas e montagem de portfólio — o coração da preparação para competições como a BRHSIC.
+[Começar agora](matematica-aplicada-a-financas/modulo-1-algebra-do-zero/index.md){ .md-button }
+[Já sei o básico](financas/modulo-1-fundamentos/index.md){ .md-button .md-button--secundario }
 
-Os Módulos 3 e 4 de Matemática (funções, progressões, probabilidade e estatística) acompanham essa segunda etapa: eles entregam o ferramental que o valuation e a análise de carteiras usam.
+</div>
 
-## Como estudar
+## Escolha por onde começar
 
-1. Leia a explicação da aula.
-2. Entenda os conceitos essenciais.
-3. Acompanhe o exemplo resolvido.
-4. Resolva o mini quiz (ou a lista de problemas, nas trilhas de matemática).
-5. Tente o PBL antes de olhar qualquer resposta.
+<div class="grid cards" markdown>
 
-## Trilhas
+-   <span class="bfa-card__icone">🔢</span> **Matemática Aplicada a Finanças** <span class="selo-pronto">4 módulos</span>
+    { .card-matematica }
 
-- [Matemática Aplicada a Finanças](matematica-aplicada-a-financas/index.md) — 4 módulos, da álgebra básica à regressão linear.
-- [Finanças](financas/index.md) — 3 módulos, dos fundamentos ao valuation e à montagem de carteira.
-- Preparação BRHSIC: em construção.
+    ---
 
-## Para professores e líderes
+    A base para não travar em juros, porcentagem e inflação. Começa do zero absoluto — se você nunca foi bom em matemática, **comece por aqui**.
 
-Este MVP adapta materiais da BRHSIC Academy/NIF para uma experiência online acessível. A proposta inicial é testar clareza, navegação e aprendizado antes de gravar aulas ou expandir para outros módulos.
+    [Ver os módulos](matematica-aplicada-a-financas/index.md)
+
+-   <span class="bfa-card__icone">📈</span> **Finanças** <span class="selo-pronto">3 módulos</span>
+    { .card-financas }
+
+    ---
+
+    Como o dinheiro funciona de verdade: Tesouro, CDB, ações, fundos, análise de empresas e montagem de carteira.
+
+    [Ver os módulos](financas/index.md)
+
+-   <span class="bfa-card__icone">🏆</span> **Preparação BRHSIC** <span class="selo-construcao">Em breve</span>
+    { .card-brhsic }
+
+    ---
+
+    Treino direcionado para a maior competição de investimentos do ensino médio do Brasil: relatório, valuation e pitch.
+
+    [Espiar o que vem](preparacao-brhsic/index.md)
+
+</div>
+
+## Como funciona cada aula
+
+<div class="grid cards" markdown>
+
+-   <span class="bfa-card__icone">📖</span> **Leia a explicação**
+
+    ---
+
+    Cada assunto começa com a ideia principal em português claro, sem jargão de banco.
+
+-   <span class="bfa-card__icone">✏️</span> **Resolva na hora**
+
+    ---
+
+    Exemplo resolvido passo a passo, lista de problemas com gabarito e quiz rápido.
+
+-   <span class="bfa-card__icone">🌎</span> **Aplique no mundo real**
+
+    ---
+
+    Cada aula termina com um caso para investigar — do tipo que aparece na sua vida.
+
+</div>
+
+## Por que o BFA existe
+
+O Brasil Finanças Atlas nasceu no Núcleo de Inteligência Financeira da escola pública Dragão do Mar, em Fortaleza. A ideia é simples: o conteúdo que prepara alguém para competir — e para cuidar do próprio dinheiro — não deveria depender de escola cara.
+
+[Conheça o projeto](sobre.md){ .md-button }
