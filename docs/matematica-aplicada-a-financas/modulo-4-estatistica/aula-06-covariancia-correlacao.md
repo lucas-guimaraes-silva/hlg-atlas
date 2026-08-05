@@ -1,8 +1,8 @@
-# Aula 6: Covariância e correlação
+# Unidade 6: Covariância e correlação
 
 ## Comece aqui
 
-No Módulo 3 de Finanças, você usou a palavra "correlação" para montar carteiras — dois ativos que não caem juntos reduzem o risco do conjunto. Esta aula entrega a matemática por trás: como **medir**, a partir dos dados, se duas variáveis dançam juntas, em direções opostas ou cada uma na sua.
+No Módulo 3 de Finanças, você usou a palavra "correlação" para montar carteiras — dois ativos que não caem juntos reduzem o risco do conjunto. Esta unidade entrega a matemática por trás: como **medir**, a partir dos dados, se duas variáveis dançam juntas, em direções opostas ou cada uma na sua.
 
 ## Ideia central
 
@@ -84,11 +84,11 @@ Correlação de 0,98: A e B são quase o mesmo ativo. Ter os dois na carteira **
 
 ## PBL
 
-Pegue (ou invente de forma realista) os retornos mensais de 6 meses de três ativos: um ETF de Ibovespa, um fundo cambial (dólar) e um FII. Calcule a correlação entre os três pares, monte uma tabela 3×3 e responda como um analista: que par oferece a melhor diversificação? Que par é "diversificação de mentira"? Se você tivesse que montar uma carteira com apenas dois deles para atravessar uma crise local, quais escolheria — e por quê o resultado bate com a aula 3 do Módulo 3 de Finanças?
+Pegue (ou invente de forma realista) os retornos mensais de 6 meses de três ativos: um ETF de Ibovespa, um fundo cambial (dólar) e um FII. Calcule a correlação entre os três pares, monte uma tabela 3×3 e responda como um analista: que par oferece a melhor diversificação? Que par é "diversificação de mentira"? Se você tivesse que montar uma carteira com apenas dois deles para atravessar uma crise local, quais escolheria — e por quê o resultado bate com a unidade 3 do Módulo 3 de Finanças?
 
 ## Resumo
 
 - Covariância dá o sentido do movimento conjunto; correlação o padroniza entre −1 e +1.
 - Correlação alta = diversificação de mentira; baixa ou negativa = proteção real.
 - Correlação é linear, muda no tempo e não prova causalidade.
-- A próxima aula dá o passo final: usar uma variável para **prever** a outra — regressão linear.
+- A próxima unidade dá o passo final: usar uma variável para **prever** a outra — regressão linear.

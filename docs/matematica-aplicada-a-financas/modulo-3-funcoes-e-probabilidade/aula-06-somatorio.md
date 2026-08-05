@@ -1,4 +1,4 @@
-# Aula 6: Somatório (Σ)
+# Unidade 6: Somatório (Σ)
 
 ## Comece aqui
 
@@ -74,7 +74,7 @@ Usei as duas propriedades: a constante somada 6 vezes e a constante multiplicati
 3. Escreva em notação Σ a soma dos montantes $50 \cdot 1{,}02^t$ para $t$ de 1 a 12.
 4. Use as propriedades para simplificar: $\sum_{k=1}^{10} (3a_k + 5)$, sabendo que $\sum_{k=1}^{10} a_k = 40$.
 5. Calcule o valor presente $\sum_{t=1}^{2} \dfrac{550}{(1{,}10)^t}$.
-6. Desafio: mostre que $\sum_{k=1}^{n} k = \dfrac{n(n+1)}{2}$ usando o truque de Gauss da aula de PA.
+6. Desafio: mostre que $\sum_{k=1}^{n} k = \dfrac{n(n+1)}{2}$ usando o truque de Gauss da unidade de PA.
 
 ??? note "Gabarito"
     1. 15; 24; $9+16+25+36 = 86$.
@@ -86,11 +86,11 @@ Usei as duas propriedades: a constante somada 6 vezes e a constante multiplicati
 
 ## PBL
 
-Sua escola quer arrecadar fundos vendendo doces por 10 semanas. O plano prevê vender 40 doces na semana 1 e crescer 15% por semana (lucro de R$ 2 por doce). Escreva o lucro total em notação de somatório, identifique que tipo de progressão está dentro do Σ, calcule o total com a fórmula apropriada da aula 5 e apresente o resultado num mini-relatório de 5 linhas para a coordenação — incluindo a fórmula, para impressionar.
+Sua escola quer arrecadar fundos vendendo doces por 10 semanas. O plano prevê vender 40 doces na semana 1 e crescer 15% por semana (lucro de R$ 2 por doce). Escreva o lucro total em notação de somatório, identifique que tipo de progressão está dentro do Σ, calcule o total com a fórmula apropriada da unidade 5 e apresente o resultado num mini-relatório de 5 linhas para a coordenação — incluindo a fórmula, para impressionar.
 
 ## Resumo
 
 - Σ abrevia somas: índice, limites e termo geral.
 - Constantes saem do somatório; somas se separam.
 - VP de fluxos de caixa e médias de retorno são somatórios — agora você lê as fórmulas dos livros.
-- Se Σ soma, existe o irmão que multiplica: o produtório Π. Próxima aula.
+- Se Σ soma, existe o irmão que multiplica: o produtório Π. Próxima unidade.

@@ -1,4 +1,4 @@
-# Aula 4: Progressão aritmética (PA)
+# Unidade 4: Progressão aritmética (PA)
 
 ## Comece aqui
 
@@ -6,7 +6,7 @@ Uma **progressão aritmética** é uma fila de números em que cada termo é o a
 
 ## Ideia central
 
-A PA é o "primo discreto" da função afim da aula 1: cresce em passos iguais. As duas perguntas clássicas são:
+A PA é o "primo discreto" da função afim da unidade 1: cresce em passos iguais. As duas perguntas clássicas são:
 
 1. **Qual é o enésimo termo?** (quanto terei na gaveta no mês 24?)
 2. **Quanto vale a soma de todos os termos até ali?** (quanto guardei no total?)
@@ -38,7 +38,7 @@ $$
 ## Onde a PA aparece em finanças
 
 - **Poupança sem juros** (dinheiro na gaveta/conta corrente): saldo é uma PA de razão = aporte.
-- **Juros simples**: os montantes mês a mês formam uma PA de razão $C \cdot i$ (a aula 1 mostrou isso como reta; PA é a mesma reta em passos).
+- **Juros simples**: os montantes mês a mês formam uma PA de razão $C \cdot i$ (a unidade 1 mostrou isso como reta; PA é a mesma reta em passos).
 - **Amortização constante (tipo SAC)**: num financiamento SAC, as prestações **caem em PA**, porque os juros diminuem sobre um saldo que cai o mesmo valor todo mês.
 
 ## Exemplo resolvido
@@ -57,7 +57,7 @@ $$
 S_{12} = \frac{(200 + 420) \cdot 12}{2} = \frac{620 \cdot 12}{2} = R\$\,3.720
 $$
 
-Duas fórmulas, zero soma manual. Guarde a comparação para a próxima aula: se esse dinheiro rendesse juros, a sequência deixaria de ser PA — os passos cresceriam.
+Duas fórmulas, zero soma manual. Guarde a comparação para a próxima unidade: se esse dinheiro rendesse juros, a sequência deixaria de ser PA — os passos cresceriam.
 
 ## Lista de problemas
 
@@ -85,4 +85,4 @@ A prefeitura oferece dois planos de estágio de 24 meses: Plano A começa em R$ 
 - PA: cada termo = anterior + razão; é o crescimento em linha reta, em versão discreta.
 - $a_n = a_1 + (n-1)r$ salta ao termo; $S_n = (a_1+a_n)n/2$ soma tudo.
 - Juros simples, poupança sem juros e prestações SAC vivem em PA.
-- Quando o passo **multiplica** em vez de somar, nasce a PG — a matemática dos juros compostos. Próxima aula.
+- Quando o passo **multiplica** em vez de somar, nasce a PG — a matemática dos juros compostos. Próxima unidade.

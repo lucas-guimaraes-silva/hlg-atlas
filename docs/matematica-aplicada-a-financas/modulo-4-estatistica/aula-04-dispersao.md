@@ -1,4 +1,4 @@
-# Aula 4: Medidas de dispersão — variância e desvio padrão
+# Unidade 4: Medidas de dispersão — variância e desvio padrão
 
 ## Comece aqui
 
@@ -32,7 +32,7 @@ $$
 
 ## Volatilidade: o desvio padrão que aparece nos apps
 
-Quando um app diz que um fundo tem "volatilidade de 15% ao ano", está dizendo: os retornos anuais costumam ficar a ±15 pontos da média. Com média 10% e σ = 15%, pela regra empírica: em ~68% dos anos o retorno cai entre −5% e +25%; em ~95%, entre −20% e +40%. A régua da aula 5 do Módulo 3 de Finanças ("aguento ver −20%?") sai exatamente daqui.
+Quando um app diz que um fundo tem "volatilidade de 15% ao ano", está dizendo: os retornos anuais costumam ficar a ±15 pontos da média. Com média 10% e σ = 15%, pela regra empírica: em ~68% dos anos o retorno cai entre −5% e +25%; em ~95%, entre −20% e +40%. A régua da unidade 5 do Módulo 3 de Finanças ("aguento ver −20%?") sai exatamente daqui.
 
 ## Exemplo resolvido
 
@@ -76,4 +76,4 @@ Monte (ou simule) duas "carteiras" com 8 retornos mensais cada: uma estável e u
 - Dispersão mede o espalhamento em torno da média; variância e desvio padrão são o padrão da indústria.
 - Volatilidade = desvio padrão dos retornos = a medida oficial de risco.
 - Regra empírica: ±1σ cobre ~68% dos casos; ±2σ, ~95%.
-- Próxima aula: comparar riscos de ativos com médias diferentes — coeficiente de variação e z-score.
+- Próxima unidade: comparar riscos de ativos com médias diferentes — coeficiente de variação e z-score.

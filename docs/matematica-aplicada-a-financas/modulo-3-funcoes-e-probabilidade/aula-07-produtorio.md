@@ -1,4 +1,4 @@
-# Aula 7: Produtório (Π)
+# Unidade 7: Produtório (Π)
 
 ## Comece aqui
 
@@ -20,7 +20,7 @@ Mesmos três ingredientes do somatório (índice, limites, termo geral) — troc
 | Fator de retorno | $1 + r$: retorno de 3% vira fator 1,03; queda de 2% vira 0,98 |
 | Retorno acumulado | O produtório dos fatores, menos 1 |
 | Fatorial ($n!$) | $\prod_{k=1}^{n} k$ — produtório dos inteiros; aparece na probabilidade |
-| Log transforma Π em Σ | $\log \prod a_k = \sum \log a_k$ — a ponte entre as aulas 3, 6 e 7 |
+| Log transforma Π em Σ | $\log \prod a_k = \sum \log a_k$ — a ponte entre as unidades 3, 6 e 7 |
 
 ## Por que retornos se multiplicam
 
@@ -80,4 +80,4 @@ Um influenciador postou: "Meu método rendeu 10% ao mês durante 6 meses. Total:
 - Π multiplica em sequência; retornos financeiros compõem por produtório, nunca por soma.
 - Retorno acumulado: $\prod(1+r_t) - 1$; quedas exigem altas maiores para recuperar.
 - Logaritmo transforma produtórios em somatórios — as três notações do módulo se conectam.
-- Próximas aulas: medir a incerteza — probabilidade.
+- Próximas unidades: medir a incerteza — probabilidade.

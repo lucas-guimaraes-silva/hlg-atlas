@@ -1,4 +1,4 @@
-# Aula 9: Valor esperado e análise de cenários
+# Unidade 9: Valor esperado e análise de cenários
 
 ## Comece aqui
 
@@ -12,7 +12,7 @@ $$
 E[X] = \sum_{k=1}^{n} p_k \cdot x_k
 $$
 
-Reconheceu o Σ da aula 6? Cada cenário $x_k$ entra multiplicado pela sua probabilidade $p_k$. É "o resultado médio se a situação se repetisse muitas vezes".
+Reconheceu o Σ da unidade 6? Cada cenário $x_k$ entra multiplicado pela sua probabilidade $p_k$. É "o resultado médio se a situação se repetisse muitas vezes".
 
 ## Conceitos essenciais
 

@@ -1,4 +1,4 @@
-# Aula 3: Mediana, moda e quando a média engana
+# Unidade 3: Mediana, moda e quando a média engana
 
 ## Comece aqui
 
@@ -71,4 +71,4 @@ O corretor diz a Ana: "o rendimento médio dos imóveis da região foi 15% ao an
 - Mediana = valor do meio (imune a extremos); moda = valor mais frequente.
 - Média ≠ mediana denuncia assimetria — e retornos financeiros são assimétricos por natureza.
 - Descreva o típico com a mediana; dimensione o risco com os extremos.
-- Falta medir **o quanto** os dados se espalham: variância e desvio padrão — a próxima aula, onde nasce a volatilidade.
+- Falta medir **o quanto** os dados se espalham: variância e desvio padrão — a próxima unidade, onde nasce a volatilidade.

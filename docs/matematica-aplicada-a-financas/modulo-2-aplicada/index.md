@@ -14,7 +14,7 @@ Ao final da trilha, você deve conseguir:
 - calcular retorno líquido depois de imposto/taxa;
 - comparar investimentos usando CDI, Selic, liquidez e risco.
 
-## Aulas
+## Unidades
 
 1. [Porcentagem e variação](aula-01-porcentagem-e-variacao.md)
 2. [Juros simples e compostos](aula-02-juros-simples-e-compostos.md)

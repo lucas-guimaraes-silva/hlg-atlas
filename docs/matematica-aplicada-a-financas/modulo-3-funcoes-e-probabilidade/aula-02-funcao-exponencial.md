@@ -1,4 +1,4 @@
-# Aula 2: Função exponencial
+# Unidade 2: Função exponencial
 
 ## Comece aqui
 
@@ -88,4 +88,4 @@ Duas irmãs recebem R$ 10.000 cada aos 20 anos. Alice investe imediatamente a 10
 - Exponencial: $f(x) = a \cdot b^x$ — cresce multiplicando, não somando.
 - Juros compostos são a exponencial com $b = 1 + i$; o tempo é o expoente.
 - Inflação e depreciação são decaimentos exponenciais ($b < 1$).
-- Falta a operação inversa: dado o montante, descobrir o **tempo**. É o logaritmo — próxima aula.
+- Falta a operação inversa: dado o montante, descobrir o **tempo**. É o logaritmo — próxima unidade.

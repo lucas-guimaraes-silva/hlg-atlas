@@ -1,4 +1,4 @@
-# Aula 1: O que é uma função
+# Unidade 1: O que é uma função
 
 ## Comece aqui
 
@@ -43,7 +43,7 @@ $$
 M(t) = C + (C \cdot i)\, t
 $$
 
-O ponto de partida $b$ é o capital $C$; a inclinação $a$ é o rendimento fixo por período $C \cdot i$. Juros simples crescem em linha reta — guarde isso, porque na próxima aula vamos compará-los com uma curva bem mais poderosa.
+O ponto de partida $b$ é o capital $C$; a inclinação $a$ é o rendimento fixo por período $C \cdot i$. Juros simples crescem em linha reta — guarde isso, porque na próxima unidade vamos compará-los com uma curva bem mais poderosa.
 
 ## Exemplo resolvido
 
@@ -81,4 +81,4 @@ João compara duas propostas de mesada por ajudar na loja da família: (a) R$ 80
 - Função é uma regra: cada entrada tem exatamente uma saída; $f(x)$ é a notação.
 - A função afim $f(x) = ax + b$ cresce em linha reta: $b$ é o início, $a$ é o ritmo.
 - Juros simples são uma função afim do tempo: $M(t) = C(1 + it)$.
-- Na próxima aula, a curva que rege os juros compostos: a função exponencial.
+- Na próxima unidade, a curva que rege os juros compostos: a função exponencial.

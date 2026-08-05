@@ -1,8 +1,8 @@
-# Aula 7: Regressão linear
+# Unidade 7: Regressão linear
 
 ## Comece aqui
 
-Correlação diz que duas variáveis andam juntas; a **regressão linear** vai além: encontra a **reta que melhor descreve** essa relação, permitindo estimar uma variável a partir da outra. É uma das ferramentas mais usadas do planeta — de previsões de venda ao famoso **beta** das ações — e é a função afim da aula 1 do Módulo 3 renascendo como ferramenta estatística.
+Correlação diz que duas variáveis andam juntas; a **regressão linear** vai além: encontra a **reta que melhor descreve** essa relação, permitindo estimar uma variável a partir da outra. É uma das ferramentas mais usadas do planeta — de previsões de venda ao famoso **beta** das ações — e é a função afim da unidade 1 do Módulo 3 renascendo como ferramenta estatística.
 
 ## Ideia central
 
@@ -77,7 +77,7 @@ Reta: $\hat{y} = 0{,}26 + 0{,}62x$. **Leitura financeira**: β ≈ 0,62 — a a�
 3. Uma ação tem β = 1,8. O Ibovespa cai 5% num mês. Qual a variação esperada da ação? Por que "esperada" e não "garantida"?
 4. Ajuste mentalmente: os pontos (1, 3), (2, 5), (3, 7) estão numa reta perfeita. Quais são $a$ e $b$? Qual o $R^2$?
 5. Um analista ajustou vendas de sorvete × temperatura com dados de 20 °C a 35 °C e quer prever vendas a 5 °C. Qual o problema?
-6. Desafio: se a correlação entre a ação e o índice é 0,6, qual o $R^2$ da regressão? Interprete: quanto do movimento da ação **não** é explicado pelo mercado (esse resto tem nome: risco específico — Módulo 3 de Finanças, aula 1).
+6. Desafio: se a correlação entre a ação e o índice é 0,6, qual o $R^2$ da regressão? Interprete: quanto do movimento da ação **não** é explicado pelo mercado (esse resto tem nome: risco específico — Módulo 3 de Finanças, unidade 1).
 
 ??? note "Gabarito"
     1. $a = 2$: valor de $y$ com $x = 0$; $b = 0{,}8$: cada +1 em $x$ soma 0,8 a $y$; $\hat{y}(10) = 10$.
@@ -89,11 +89,11 @@ Reta: $\hat{y} = 0{,}26 + 0{,}62x$. **Leitura financeira**: β ≈ 0,62 — a a�
 
 ## PBL
 
-Colete (ou simule com bom senso) 8 pares de dados: retorno mensal do Ibovespa ($x$) e de uma ação que você acompanha ($y$). Calcule β e $a$ pela receita da aula, classifique a ação (amplificadora, neutra ou defensiva), calcule o $R^2$ a partir da correlação e escreva um mini-parecer de analista (5 linhas): o que o β diz sobre o papel dessa ação numa carteira conservadora? E numa arrojada? Este tipo de análise quantitativa diferencia um pitch na BRHSIC.
+Colete (ou simule com bom senso) 8 pares de dados: retorno mensal do Ibovespa ($x$) e de uma ação que você acompanha ($y$). Calcule β e $a$ pela receita da unidade, classifique a ação (amplificadora, neutra ou defensiva), calcule o $R^2$ a partir da correlação e escreva um mini-parecer de analista (5 linhas): o que o β diz sobre o papel dessa ação numa carteira conservadora? E numa arrojada? Este tipo de análise quantitativa diferencia um pitch na BRHSIC.
 
 ## Resumo
 
 - Regressão encontra a reta de mínimos quadrados: $b = \text{Cov}/\sigma_x^2$, $a = \bar{y} - b\bar{x}$.
 - O β de uma ação é o coeficiente angular contra o mercado: mede sensibilidade e alimenta o CAPM.
 - $R^2$ mede a força da reta; extrapolar e ignorar outliers são os erros clássicos.
-- Última aula do módulo: como **não** ser enganado por estatísticas — o kit de defesa do analista.
+- Última unidade do módulo: como **não** ser enganado por estatísticas — o kit de defesa do analista.

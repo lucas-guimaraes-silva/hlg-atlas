@@ -1,8 +1,8 @@
-# Aula 3: Logaritmos
+# Unidade 3: Logaritmos
 
 ## Comece aqui
 
-A aula passada respondia "quanto vou ter depois de $t$ anos?". Mas a pergunta que investidores realmente fazem é a inversa: **"em quanto tempo meu dinheiro dobra?"**. Quando a incógnita está no expoente, a ferramenta para tirá-la de lá tem nome: **logaritmo**.
+A unidade passada respondia "quanto vou ter depois de $t$ anos?". Mas a pergunta que investidores realmente fazem é a inversa: **"em quanto tempo meu dinheiro dobra?"**. Quando a incógnita está no expoente, a ferramenta para tirá-la de lá tem nome: **logaritmo**.
 
 ## Ideia central
 
@@ -32,7 +32,7 @@ Em palavras: $\log_2(8)$ pergunta "2 elevado a **quanto** dá 8?". Resposta: 3. 
 3. $\log(a \cdot c) = \log a + \log c$ — logaritmo transforma multiplicação em soma;
 4. $\log(a^n) = n \log a$ — logaritmo "puxa o expoente para baixo".
 
-A propriedade 4 é o motivo de esta aula existir: ela liberta o $t$ preso no expoente.
+A propriedade 4 é o motivo de esta unidade existir: ela liberta o $t$ preso no expoente.
 
 ## Resolvendo o tempo nos juros compostos
 
@@ -86,4 +86,4 @@ Ana viu um anúncio: "duplique seu dinheiro conosco!". Investigando, descobriu q
 - Logaritmo é a potência lida ao contrário: encontra o expoente.
 - $\log(a^n) = n\log a$ resolve qualquer "em quanto tempo?" dos juros compostos.
 - A regra do 72 é o logaritmo disfarçado de conta de cabeça.
-- Próxima aula: sequências que somam sempre o mesmo — a progressão aritmética.
+- Próxima unidade: sequências que somam sempre o mesmo — a progressão aritmética.

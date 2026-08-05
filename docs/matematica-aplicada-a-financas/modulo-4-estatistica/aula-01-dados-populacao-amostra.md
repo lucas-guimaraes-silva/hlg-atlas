@@ -1,4 +1,4 @@
-# Aula 1: Dados, população e amostra
+# Unidade 1: Dados, população e amostra
 
 ## Comece aqui
 
@@ -41,7 +41,7 @@ Ana quer estimar o retorno típico mensal de um ETF do Ibovespa.
 1. **Variável**: retorno mensal (%) — quantitativa contínua, em série temporal.
 2. **População**: todos os retornos mensais possíveis do índice (inatingível).
 3. **Amostra escolhida**: últimos 60 meses (5 anos) — inclui anos bons e ruins, reduzindo viés de período.
-4. **Limitação declarada**: 60 observações ainda é pouco para eventos raros (crises acontecem a cada década); os números que ela calcular nas próximas aulas valem como estimativa, não como promessa.
+4. **Limitação declarada**: 60 observações ainda é pouco para eventos raros (crises acontecem a cada década); os números que ela calcular nas próximas unidades valem como estimativa, não como promessa.
 
 Esse hábito — declarar variável, amostra e limitação **antes** de calcular qualquer média — é o que separa análise de achismo.
 
@@ -71,4 +71,4 @@ Um canal de investimentos publicou: "Análise de 3 anos mostra que nossa carteir
 - Estatística transforma dados em conclusões — sempre a partir de amostras, nunca da população inteira.
 - Vieses de período, sobrevivência e amostra pequena fabricam conclusões falsas.
 - Declare variável, amostra e limitações antes de calcular.
-- Com dados confiáveis em mãos, a próxima aula resume tudo num número: as médias.
+- Com dados confiáveis em mãos, a próxima unidade resume tudo num número: as médias.

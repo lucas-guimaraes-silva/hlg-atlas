@@ -1,8 +1,8 @@
-# Aula 5: Coeficiente de variação e z-score
+# Unidade 5: Coeficiente de variação e z-score
 
 ## Comece aqui
 
-O ativo X tem σ = 8% e o ativo Y tem σ = 12%. Y é mais arriscado? Depende: se Y rende o dobro, talvez o risco extra compense. E quando um dia de bolsa cai 4%, isso é "um dia ruim normal" ou "um evento histórico"? As duas perguntas se respondem **padronizando** — dividindo pela referência certa. São as duas ferramentas desta aula.
+O ativo X tem σ = 8% e o ativo Y tem σ = 12%. Y é mais arriscado? Depende: se Y rende o dobro, talvez o risco extra compense. E quando um dia de bolsa cai 4%, isso é "um dia ruim normal" ou "um evento histórico"? As duas perguntas se respondem **padronizando** — dividindo pela referência certa. São as duas ferramentas desta unidade.
 
 ## Ideia central
 
@@ -82,4 +82,4 @@ Você é o "analista de risco" da família. Seu tio compara dois investimentos: 
 - CV = σ/média: risco por unidade de retorno; permite comparar ativos de escalas diferentes.
 - Z-score = (valor − média)/σ: mede o quão atípico é um resultado.
 - Mercados reais têm caudas gordas: respeite os eventos "impossíveis".
-- Até aqui, cada variável foi analisada sozinha. A próxima aula mede como **duas** variáveis se movem juntas: covariância e correlação.
+- Até aqui, cada variável foi analisada sozinha. A próxima unidade mede como **duas** variáveis se movem juntas: covariância e correlação.

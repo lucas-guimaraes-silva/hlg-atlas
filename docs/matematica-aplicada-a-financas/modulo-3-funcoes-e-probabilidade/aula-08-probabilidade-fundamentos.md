@@ -1,4 +1,4 @@
-# Aula 8: Probabilidade — fundamentos
+# Unidade 8: Probabilidade — fundamentos
 
 ## Comece aqui
 
@@ -73,4 +73,4 @@ Seu colega diz: "vou vender tudo — a bolsa caiu 4 dias seguidos, a chance de c
 - Probabilidade mede incerteza de 0 a 1; complementar, "e" (multiplica) e "ou" (soma) resolvem a maioria dos casos.
 - Em finanças, probabilidades vêm de frequências históricas — amostras, não garantias.
 - Independência é hipótese forte: em crises, tudo cai junto.
-- Próxima aula: transformar probabilidades em decisões — o valor esperado.
+- Próxima unidade: transformar probabilidades em decisões — o valor esperado.

@@ -10,7 +10,7 @@ Ao final do módulo, você deve conseguir calcular e interpretar as estatística
 
 Concluir o [Módulo 3 — Funções, Progressões e Probabilidade](../modulo-3-funcoes-e-probabilidade/index.md) — as notações Σ e Π e o conceito de valor esperado são usados o tempo todo aqui.
 
-## Aulas
+## Unidades
 
 1. [Dados, população e amostra](aula-01-dados-populacao-amostra.md)
 2. [Médias — aritmética, ponderada e geométrica](aula-02-medias.md)
@@ -21,14 +21,14 @@ Concluir o [Módulo 3 — Funções, Progressões e Probabilidade](../modulo-3-f
 7. [Regressão linear](aula-07-regressao-linear.md)
 8. [Estatística na prática — lendo números sem se enganar](aula-08-estatistica-na-pratica.md)
 
-## Estrutura de cada aula
+## Estrutura de cada unidade
 
 - **Comece aqui**: a intuição antes do formalismo.
 - **Conceitos essenciais**: definições e propriedades.
 - **Exemplo resolvido**: a teoria aplicada a um problema financeiro real.
 - **Lista de problemas**: exercícios com gabarito para treinar a mão.
 - **PBL**: problema aberto que exige montar a análise sozinho.
-- **Resumo**: o que levar para a próxima aula.
+- **Resumo**: o que levar para a próxima unidade.
 
 ## Próximo passo
 

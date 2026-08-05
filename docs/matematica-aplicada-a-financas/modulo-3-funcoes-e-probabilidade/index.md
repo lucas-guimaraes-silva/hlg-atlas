@@ -1,6 +1,6 @@
 # Módulo 3 — Funções, Progressões e Probabilidade
 
-A matemática deste módulo é a linguagem em que as finanças são escritas: funções descrevem como o dinheiro evolui, progressões e as notações Σ/Π organizam sequências de fluxos e retornos, e a probabilidade mede a incerteza. Cada aula é teórica de verdade — definições, propriedades e fórmulas — mas sempre com um exemplo real de finanças mostrando a teoria em ação.
+A matemática deste módulo é a linguagem em que as finanças são escritas: funções descrevem como o dinheiro evolui, progressões e as notações Σ/Π organizam sequências de fluxos e retornos, e a probabilidade mede a incerteza. Cada unidade é teórica de verdade — definições, propriedades e fórmulas — mas sempre com um exemplo real de finanças mostrando a teoria em ação.
 
 ## Objetivo
 
@@ -10,7 +10,7 @@ Ao final do módulo, você deve conseguir ler e manipular as fórmulas dos livro
 
 Concluir o [Módulo 1 — Álgebra do Zero](../modulo-1-algebra-do-zero/index.md) e o [Módulo 2 — Matemática Financeira Aplicada](../modulo-2-aplicada/index.md).
 
-## Aulas
+## Unidades
 
 1. [O que é uma função](aula-01-o-que-e-uma-funcao.md)
 2. [Função exponencial](aula-02-funcao-exponencial.md)
@@ -22,14 +22,14 @@ Concluir o [Módulo 1 — Álgebra do Zero](../modulo-1-algebra-do-zero/index.md
 8. [Probabilidade — fundamentos](aula-08-probabilidade-fundamentos.md)
 9. [Valor esperado e análise de cenários](aula-09-valor-esperado.md)
 
-## Estrutura de cada aula
+## Estrutura de cada unidade
 
 - **Comece aqui**: a intuição antes do formalismo.
 - **Conceitos essenciais**: definições e propriedades.
 - **Exemplo resolvido**: a teoria aplicada a um problema financeiro real.
 - **Lista de problemas**: exercícios com gabarito para treinar a mão.
 - **PBL**: problema aberto que exige montar o modelo sozinho.
-- **Resumo**: o que levar para a próxima aula.
+- **Resumo**: o que levar para a próxima unidade.
 
 ## Próximo passo
 

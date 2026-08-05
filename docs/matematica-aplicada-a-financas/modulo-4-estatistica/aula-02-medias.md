@@ -1,8 +1,8 @@
-# Aula 2: Médias — aritmética, ponderada e geométrica
+# Unidade 2: Médias — aritmética, ponderada e geométrica
 
 ## Comece aqui
 
-"Qual foi o retorno médio?" parece pergunta simples — mas existem **três médias diferentes**, e usar a errada em finanças produz respostas erradas com cara de certas. Esta aula ensina as três e, principalmente, **quando cada uma é a correta**.
+"Qual foi o retorno médio?" parece pergunta simples — mas existem **três médias diferentes**, e usar a errada em finanças produz respostas erradas com cara de certas. Esta unidade ensina as três e, principalmente, **quando cada uma é a correta**.
 
 ## Ideia central
 
@@ -59,7 +59,7 @@ A aritmética simples dos preços ($\frac{20+25+30}{3} = 25$) coincidiu por sort
 3. Retornos anuais de +20%, +10% e −8%: calcule o retorno médio **geométrico** (dica: use os fatores 1,20; 1,10; 0,92).
 4. No problema 3, calcule também a média aritmética e explique por que ela é maior.
 5. Uma carteira tem 50% em Selic (+11%), 30% em IPCA+ (+7%) e 20% em ações (−12%). Qual o retorno da carteira?
-6. Desafio: um investimento dobrou em 5 anos. Qual a taxa média geométrica anual? (Resolva com raiz quinta e confira com a regra do 72 da aula de logaritmos.)
+6. Desafio: um investimento dobrou em 5 anos. Qual a taxa média geométrica anual? (Resolva com raiz quinta e confira com a regra do 72 da unidade de logaritmos.)
 
 ??? note "Gabarito"
     1. $50/5 = 10$.
@@ -78,4 +78,4 @@ Um fundo anuncia: "retorno médio de 12% ao ano nos últimos 4 anos!" Os retorno
 - Aritmética para valores independentes; ponderada para pesos (carteiras, custo médio); geométrica para retornos que se compõem.
 - Com volatilidade, aritmética > geométrica: desconfie de médias de retorno divulgadas.
 - O retorno de uma carteira é a média ponderada dos retornos das classes.
-- Mas média sozinha esconde muito. A próxima aula mostra quando ela engana — mediana e moda.
+- Mas média sozinha esconde muito. A próxima unidade mostra quando ela engana — mediana e moda.

@@ -1,4 +1,4 @@
-# Aula 5: Progressão geométrica (PG)
+# Unidade 5: Progressão geométrica (PG)
 
 ## Comece aqui
 
@@ -26,7 +26,7 @@ $$
 |----------|---------------------|
 | PG | Sequência em que cada termo = anterior × razão |
 | Razão ($q$) | O fator multiplicativo (nos juros: $q = 1 + i$) |
-| Termo geral | $a_n = a_1 q^{n-1}$ — é a exponencial da aula 2 em versão discreta |
+| Termo geral | $a_n = a_1 q^{n-1}$ — é a exponencial da unidade 2 em versão discreta |
 | Soma finita ($S_n$) | Soma dos $n$ primeiros termos |
 | Soma infinita | Se $0 < q < 1$: $S_\infty = \dfrac{a_1}{1-q}$ — a base da perpetuidade do valuation |
 
@@ -50,7 +50,7 @@ $$
 S_\infty = \frac{a_1}{1 - q}
 $$
 
-No Módulo 2 de Finanças (valuation), o valor da **perpetuidade** — todos os fluxos de caixa futuros de uma empresa após o período projetado — usa exatamente essa ideia: fluxos descontados formam uma PG de razão $\frac{1}{1+i} < 1$, e a soma infinita vira $\frac{FC}{i}$. Agora você sabe de onde saiu aquele "18,2 ÷ 0,14" da aula de FCD.
+No Módulo 2 de Finanças (valuation), o valor da **perpetuidade** — todos os fluxos de caixa futuros de uma empresa após o período projetado — usa exatamente essa ideia: fluxos descontados formam uma PG de razão $\frac{1}{1+i} < 1$, e a soma infinita vira $\frac{FC}{i}$. Agora você sabe de onde saiu aquele "18,2 ÷ 0,14" da unidade de FCD.
 
 ## Exemplo resolvido
 
@@ -88,4 +88,4 @@ Um vendedor oferece a Carlos um consórcio: "R$ 400 por mês durante 5 anos e vo
 - PG: cada termo = anterior × razão; é a exponencial em passos discretos.
 - $a_n = a_1 q^{n-1}$; soma finita $S_n = a_1\frac{q^n-1}{q-1}$; soma infinita $\frac{a_1}{1-q}$ quando $|q|<1$.
 - O valor futuro de aportes mensais é a soma de uma PG; a perpetuidade do valuation é a soma infinita.
-- Próxima aula: uma notação para escrever somas gigantes em uma linha — o somatório.
+- Próxima unidade: uma notação para escrever somas gigantes em uma linha — o somatório.

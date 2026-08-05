@@ -169,6 +169,90 @@ Detalhes:
 <span class="selo-construcao">Em breve</span>
 ```
 
+### Diagrama de conceitos (grade 2×2)
+
+Para esquemas visuais **sem precisar de imagem** — acompanha o modo escuro, funciona
+no celular e o texto continua buscável.
+
+```html
+<div class="bfa-ops">
+  <div class="bfa-ops__item bfa-ops__item--soma">
+    <span class="bfa-ops__sinal">+</span>
+    <span class="bfa-ops__nome">Soma</span>
+    <p class="bfa-ops__pergunta">A ideia principal em destaque</p>
+    <code class="bfa-ops__exemplo">150 + 80 = 230</code>
+  </div>
+  <!-- repita o bloco acima para os outros quadrantes -->
+</div>
+```
+
+Cores dos quadrantes: `--soma` (verde), `--sub` (vermelho), `--mult` (azul),
+`--div` (dourado). Sem modificador, fica dourado.
+
+### Barras de comparação
+
+```html
+<div class="bfa-barras">
+  <div class="bfa-barra">
+    <span class="bfa-barra__rotulo">Cenário A</span>
+    <div class="bfa-barra__trilho">
+      <div class="bfa-barra__preenchimento" style="width: 100%">9 meses</div>
+    </div>
+  </div>
+  <div class="bfa-barra">
+    <span class="bfa-barra__rotulo">Cenário B</span>
+    <div class="bfa-barra__trilho">
+      <div class="bfa-barra__preenchimento bfa-barra__preenchimento--destaque" style="width: 56%">5 meses</div>
+    </div>
+  </div>
+  <p class="bfa-barras__nota">A conclusão que o aluno deve levar</p>
+</div>
+```
+
+A largura é o `style="width: X%"`. Calcule proporcional ao maior valor: se o maior
+é 9 e o outro é 5, então `5 ÷ 9 = 0,56` → `56%`.
+
+### ⚠️ A pegadinha do HTML dentro do Markdown
+
+**Nunca deixe linha em branco dentro de um bloco de HTML** (`<div>`, `<svg>`, `<table>`).
+
+O Markdown encerra o bloco de HTML na primeira linha vazia e passa a tratar o resto
+como texto comum — as tags são descartadas e só sobra o texto solto na página. O
+sintoma é característico: o conteúdo escrito aparece, mas o desenho/estrutura some.
+
+```html
+<!-- ❌ ERRADO: a linha vazia quebra tudo -->
+<svg viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="40" />
+
+  <text x="50" y="50">oi</text>
+</svg>
+```
+
+```html
+<!-- ✅ CERTO: bloco contíguo. Para separar, use comentário em vez de linha vazia -->
+<svg viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="40" />
+  <!-- rótulo -->
+  <text x="50" y="50">oi</text>
+</svg>
+```
+
+### Quando usar imagem e quando usar HTML
+
+| Tipo de visual | Como fazer |
+|---|---|
+| Caixas, grades, comparações, barras | **HTML/CSS** (receitas acima) — nunca imagem |
+| Reta numérica, ícone, seta, esquema geométrico | **SVG** (Figma ou escrito à mão) |
+| Gráfico com dados reais (curvas, dispersão) | Script em **Python** gerando SVG |
+| Ilustração, mascote, cena | **Figma** ou Canva |
+
+Regra: se dá pra fazer com texto e caixa, faça com texto e caixa. Imagem só quando
+o desenho for essencial — cada imagem é um arquivo a mais para manter.
+
+⚠️ Ao exportar imagem, **use SVG com fundo transparente**, nunca PNG com fundo
+branco: o site tem modo escuro, e fundo branco vira um retângulo brilhando na tela.
+
 ### Caixa de destaque
 
 ```markdown
