@@ -2,12 +2,19 @@
 
 Trilha aberta de educação financeira para estudantes do ensino médio — do zero absoluto até análise de investimentos.
 
-**Nova plataforma (beta):** https://helpful-elf-ca3f18.netlify.app/
-**Versão MkDocs (estável):** https://brasil-financas-atlas.github.io/bfa/
+## 🌐 Site oficial
 
-> A nova plataforma tem interface própria e área de professor. O endereço
-> `helpful-elf-...` é provisório e será renomeado. Código em
-> [davidlhferro/atlas](https://github.com/davidlhferro/atlas).
+### **https://brasil-financas-atlas.netlify.app**
+
+Plataforma com interface própria, trilhas, exercícios e área do professor.
+Código em [davidlhferro/atlas](https://github.com/davidlhferro/atlas).
+
+**Outros endereços do projeto:**
+
+| Endereço | O que é |
+|---|---|
+| [brasil-financas-atlas.github.io/bfa](https://brasil-financas-atlas.github.io/bfa/) | Versão MkDocs — mesma trilha em formato de documentação. **É aqui que o conteúdo é escrito**, e este repositório é a fonte dela. |
+| [helpful-elf-ca3f18.netlify.app](https://helpful-elf-ca3f18.netlify.app/) | Deploy do David, da mesma plataforma. Ambiente de desenvolvimento dele. |
 
 ---
 
