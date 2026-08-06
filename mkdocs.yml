@@ -3,6 +3,10 @@ site_description: Trilhas abertas de matemática e finanças para estudantes do 
 site_url: https://brasil-financas-atlas.github.io/bfa/
 repo_url: https://github.com/brasil-financas-atlas/bfa
 repo_name: bfa
+# Coloca um lapis no topo de cada pagina, que abre o editor do proprio GitHub
+# naquele arquivo. E assim que quem escreve conteudo edita o site sem terminal
+# e sem token: basta estar logado no GitHub com acesso ao repositorio.
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -35,6 +39,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.tooltips
+    - content.action.edit
     - toc.follow
 
 extra_css:
