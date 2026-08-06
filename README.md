@@ -3,7 +3,7 @@
 Trilha aberta de educação financeira para estudantes do ensino médio — do zero absoluto até análise de investimentos.
 
 **Nova plataforma (beta):** https://helpful-elf-ca3f18.netlify.app/
-**Versão MkDocs (estável):** https://lucas-guimaraes-silva.github.io/bfa/
+**Versão MkDocs (estável):** https://brasil-financas-atlas.github.io/bfa/
 
 > A nova plataforma tem interface própria e área de professor. O endereço
 > `helpful-elf-...` é provisório e será renomeado. Código em
