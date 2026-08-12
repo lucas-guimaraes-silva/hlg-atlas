@@ -21,7 +21,7 @@ O mercado mexe nos seus percentuais o tempo todo: se as ações sobem muito, sua
 
 ## Aportar todo mês: o superpoder do iniciante
 
-Quem investe R$ 300 todo mês, chova ou faça sol:
+Quem investe R\$ 300 todo mês, chova ou faça sol:
 
 - compra **mais cotas** quando o mercado está barato e **menos** quando está caro (o preço médio trabalha a favor);
 - transforma disciplina em juros compostos — que, como você viu na Matemática, são a força mais poderosa da carteira;
@@ -38,10 +38,10 @@ Para quem está começando com pouco, **o valor do aporte importa mais que a ren
 
 ## Exemplo resolvido
 
-Carteira-alvo de Ana: 15% ações BR. Depois de um rali, a carteira de R$ 20.000 tem R$ 4.200 em ações (21%).
+Carteira-alvo de Ana: 15% ações BR. Depois de um rali, a carteira de R\$ 20.000 tem R\$ 4.200 em ações (21%).
 
-- **Sem vender**: Ana aporta R$ 500/mês. Direciona os próximos aportes para as demais classes até as ações voltarem a ~15% do total. Custo: zero.
-- **Vendendo**: venderia ~R$ 1.200 de ações e compraria as classes defasadas — mas pagaria IR sobre o ganho e corretagem.
+- **Sem vender**: Ana aporta R\$ 500/mês. Direciona os próximos aportes para as demais classes até as ações voltarem a ~15% do total. Custo: zero.
+- **Vendendo**: venderia ~R\$ 1.200 de ações e compraria as classes defasadas — mas pagaria IR sobre o ganho e corretagem.
 
 Mesma disciplina, e a versão com aportes é de graça. O rebalanceamento fez Ana **realizar parte do lucro do rali sem nenhuma previsão** sobre o futuro da bolsa.
 
@@ -55,7 +55,7 @@ Mesma disciplina, e a versão com aportes é de graça. O rebalanceamento fez An
 
 ## PBL
 
-A carteira de Carlos tinha alvo 40% renda fixa / 40% ações / 20% FIIs. Após uma forte queda da bolsa, está em R$ 44.000 de RF (55%), R$ 20.000 de ações (25%) e R$ 16.000 de FIIs (20%). Carlos está apavorado e quer vender as ações que restaram "antes que caia mais". Explique a Carlos o que a política de rebalanceamento manda fazer nesse momento, calcule as movimentações exatas para voltar ao alvo e argumente por que essa é psicologicamente a parte mais difícil — e mais valiosa — do método.
+A carteira de Carlos tinha alvo 40% renda fixa / 40% ações / 20% FIIs. Após uma forte queda da bolsa, está em R\$ 44.000 de RF (55%), R\$ 20.000 de ações (25%) e R\$ 16.000 de FIIs (20%). Carlos está apavorado e quer vender as ações que restaram "antes que caia mais". Explique a Carlos o que a política de rebalanceamento manda fazer nesse momento, calcule as movimentações exatas para voltar ao alvo e argumente por que essa é psicologicamente a parte mais difícil — e mais valiosa — do método.
 
 ## Resumo
 

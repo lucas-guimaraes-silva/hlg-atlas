@@ -35,7 +35,7 @@ $$
 M(t) = C (1+i)^t
 $$
 
-é exatamente $f(x) = a \cdot b^x$ com $a = C$ e $b = 1+i$. Compare os dois regimes com C = R$ 1.000 e 10% ao ano:
+é exatamente $f(x) = a \cdot b^x$ com $a = C$ e $b = 1+i$. Compare os dois regimes com C = R\$ 1.000 e 10% ao ano:
 
 | Ano | Simples: $1000 + 100t$ | Composto: $1000 \cdot 1{,}10^t$ |
 |---:|---:|---:|
@@ -48,11 +48,11 @@ Nos primeiros anos, quase empatam. Em 30 anos, a exponencial entrega **mais de 4
 
 ## Decaimento: a exponencial do prejuízo
 
-Inflação corrói o poder de compra exponencialmente: com 6% ao ano, cada R$ 1 vale $1 \cdot (1/1{,}06)^t$ em poder de compra. Em 12 anos, metade. Mesma matemática, sinal trocado — a exponencial trabalha para quem investe e contra quem deixa o dinheiro parado.
+Inflação corrói o poder de compra exponencialmente: com 6% ao ano, cada R\$ 1 vale $1 \cdot (1/1{,}06)^t$ em poder de compra. Em 12 anos, metade. Mesma matemática, sinal trocado — a exponencial trabalha para quem investe e contra quem deixa o dinheiro parado.
 
 ## Exemplo resolvido
 
-Uma aplicação rende 1% ao mês (juros compostos). Quanto R$ 5.000 viram em 2 anos?
+Uma aplicação rende 1% ao mês (juros compostos). Quanto R\$ 5.000 viram em 2 anos?
 
 $$
 M = 5000 \cdot (1{,}01)^{24}
@@ -66,9 +66,9 @@ Note o "bônus composto": 1% ao mês por 24 meses **não** é 24% — é 26,97%.
 
 1. Identifique $a$ e $b$ e diga se cresce ou decai: (i) $f(x) = 200 \cdot 1{,}05^x$; (ii) $g(x) = 800 \cdot 0{,}9^x$.
 2. Uma cidade de 100.000 habitantes cresce 2% ao ano. Escreva a função e estime a população em 10 anos.
-3. R$ 3.000 a 0,8% ao mês por 18 meses: monte a expressão e calcule o montante.
-4. Um carro de R$ 60.000 desvaloriza 15% ao ano. Quanto vale após 4 anos?
-5. A inflação é de 5% ao ano. Qual o poder de compra de R$ 1.000 daqui a 10 anos, em reais de hoje?
+3. R\$ 3.000 a 0,8% ao mês por 18 meses: monte a expressão e calcule o montante.
+4. Um carro de R\$ 60.000 desvaloriza 15% ao ano. Quanto vale após 4 anos?
+5. A inflação é de 5% ao ano. Qual o poder de compra de R\$ 1.000 daqui a 10 anos, em reais de hoje?
 6. Desafio: qual rende mais em 3 anos — 12% ao ano compostos anualmente, ou 1% ao mês compostos mensalmente? Justifique com as duas expressões.
 
 ??? note "Gabarito"
@@ -81,7 +81,7 @@ Note o "bônus composto": 1% ao mês por 24 meses **não** é 24% — é 26,97%.
 
 ## PBL
 
-Duas irmãs recebem R$ 10.000 cada aos 20 anos. Alice investe imediatamente a 10% ao ano e nunca mais aporta. Bruna deixa parado e só investe aos 35, também a 10% ao ano — mas para compensar, coloca R$ 30.000. Quem chega aos 60 com mais dinheiro? Calcule os dois montantes, explique o resultado usando a natureza da função exponencial e escreva a "moral matemática" da história em uma frase.
+Duas irmãs recebem R\$ 10.000 cada aos 20 anos. Alice investe imediatamente a 10% ao ano e nunca mais aporta. Bruna deixa parado e só investe aos 35, também a 10% ao ano — mas para compensar, coloca R\$ 30.000. Quem chega aos 60 com mais dinheiro? Calcule os dois montantes, explique o resultado usando a natureza da função exponencial e escreva a "moral matemática" da história em uma frase.
 
 ## Resumo
 

@@ -2,7 +2,7 @@
 
 ## Comece aqui
 
-R$ 23 milhões de lucro é muito ou pouco? Impossível responder sem saber **quanto foi preciso investir para gerar esse lucro**. Indicadores de rentabilidade fazem exatamente essa conta: transformam números absolutos em percentuais comparáveis entre empresas de qualquer tamanho.
+R\$ 23 milhões de lucro é muito ou pouco? Impossível responder sem saber **quanto foi preciso investir para gerar esse lucro**. Indicadores de rentabilidade fazem exatamente essa conta: transformam números absolutos em percentuais comparáveis entre empresas de qualquer tamanho.
 
 ## Ideia central
 
@@ -25,7 +25,7 @@ $$
 ROE = \frac{\text{Lucro líquido}}{\text{Patrimônio líquido}}
 $$
 
-Se o ROE é 20%, cada R$ 100 dos sócios investidos na empresa gera R$ 20 de lucro por ano. Compare com a referência que você já conhece do Módulo 1: se um título público paga ~10% ao ano sem risco, uma empresa com ROE consistente de 20% cria valor de verdade; com ROE de 6%, o acionista carrega risco para ganhar menos que a renda fixa.
+Se o ROE é 20%, cada R\$ 100 dos sócios investidos na empresa gera R\$ 20 de lucro por ano. Compare com a referência que você já conhece do Módulo 1: se um título público paga ~10% ao ano sem risco, uma empresa com ROE consistente de 20% cria valor de verdade; com ROE de 6%, o acionista carrega risco para ganhar menos que a renda fixa.
 
 **Cuidado**: dívida infla o ROE. Uma empresa muito endividada tem PL pequeno, o que aumenta artificialmente o indicador — sempre leia o ROE junto com o endividamento (unidade 7).
 
@@ -53,7 +53,7 @@ Com os números da Sorvetes Tropical (unidades 3 e 4): lucro líquido 23, receit
 | ROA | 23 ÷ 400 | 5,8% |
 | Giro do ativo | 300 ÷ 400 | 0,75× |
 
-Diagnóstico: ROE de 9,2% está **abaixo** do que pagava a renda fixa no período — a Tropical, hoje, não remunera bem o risco do acionista. A decomposição mostra o caminho: margem de 7,7% × giro de 0,75. Como as fábricas e a frota são pesadas (ativo grande), o giro é baixo; a alavanca mais realista é recuperar margem — lembra dos R$ 12 mi de juros da unidade 4? Reduzir dívida elevaria lucro, ROE e margem ao mesmo tempo.
+Diagnóstico: ROE de 9,2% está **abaixo** do que pagava a renda fixa no período — a Tropical, hoje, não remunera bem o risco do acionista. A decomposição mostra o caminho: margem de 7,7% × giro de 0,75. Como as fábricas e a frota são pesadas (ativo grande), o giro é baixo; a alavanca mais realista é recuperar margem — lembra dos R\$ 12 mi de juros da unidade 4? Reduzir dívida elevaria lucro, ROE e margem ao mesmo tempo.
 
 ## Mini quiz
 
@@ -65,7 +65,7 @@ Diagnóstico: ROE de 9,2% está **abaixo** do que pagava a renda fixa no períod
 
 ## PBL
 
-Duas empresas do mesmo setor: a empresa A tem lucro de R$ 50 mi, PL de R$ 500 mi e dívida líquida próxima de zero. A empresa B tem lucro de R$ 45 mi, PL de R$ 150 mi e dívida líquida de R$ 400 mi. Calcule o ROE das duas, explique por que o ROE maior de B não significa necessariamente que ela é melhor, e decida: qual das duas você investigaria mais a fundo para investir, e o que verificaria antes?
+Duas empresas do mesmo setor: a empresa A tem lucro de R\$ 50 mi, PL de R\$ 500 mi e dívida líquida próxima de zero. A empresa B tem lucro de R\$ 45 mi, PL de R\$ 150 mi e dívida líquida de R\$ 400 mi. Calcule o ROE das duas, explique por que o ROE maior de B não significa necessariamente que ela é melhor, e decida: qual das duas você investigaria mais a fundo para investir, e o que verificaria antes?
 
 ## Resumo
 

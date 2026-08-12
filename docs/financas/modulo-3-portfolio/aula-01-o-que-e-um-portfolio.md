@@ -28,12 +28,12 @@ O que ela **não elimina**: o risco de mercado (numa crise geral, quase tudo cai
 
 ## Exemplo resolvido
 
-João tem R$ 10.000, tudo em ações de uma única empresa aérea. Ana tem os mesmos R$ 10.000 divididos: R$ 4.000 em Tesouro IPCA+, R$ 3.000 num ETF de ações diversificado, R$ 2.000 em FIIs e R$ 1.000 em ações da mesma aérea.
+João tem R\$ 10.000, tudo em ações de uma única empresa aérea. Ana tem os mesmos R\$ 10.000 divididos: R\$ 4.000 em Tesouro IPCA+, R\$ 3.000 num ETF de ações diversificado, R\$ 2.000 em FIIs e R\$ 1.000 em ações da mesma aérea.
 
 Veio uma greve no setor aéreo e a ação caiu 30%:
 
-- **João**: perdeu 30% de tudo → carteira a R$ 7.000.
-- **Ana**: perdeu 30% só nos R$ 1.000 da aérea (−R$ 300); o resto nem sentiu → carteira a ~R$ 9.700 (−3%).
+- **João**: perdeu 30% de tudo → carteira a R\$ 7.000.
+- **Ana**: perdeu 30% só nos R\$ 1.000 da aérea (−R\$ 300); o resto nem sentiu → carteira a ~R\$ 9.700 (−3%).
 
 Mesma notícia, dez vezes menos estrago. E note: Ana **continua exposta** ao potencial da aérea — só não depende dela.
 

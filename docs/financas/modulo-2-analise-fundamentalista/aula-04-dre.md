@@ -39,7 +39,7 @@ O degrau onde a empresa "sangra" revela o problema: margem bruta baixa é proble
 
 ## Exemplo resolvido
 
-DRE simplificada da **Sorvetes Tropical S.A.** (em R$ milhões):
+DRE simplificada da **Sorvetes Tropical S.A.** (em R\$ milhões):
 
 | Linha | Valor | Margem |
 |---|---:|---:|
@@ -53,7 +53,7 @@ DRE simplificada da **Sorvetes Tropical S.A.** (em R$ milhões):
 | (−) IR (30%) | −10 | |
 | (=) **Lucro líquido** | **23** | **7,7%** |
 
-Leitura: a cada R$ 100 vendidos, R$ 40 sobram depois de fabricar o sorvete, R$ 15 sobram da operação como um todo e **R$ 7,70 chegam ao acionista**. Os juros consumiram R$ 12 mi — se a empresa reduzir a dívida líquida de R$ 60 mi que vimos na unidade 3, esse degrau devolve lucro direto ao acionista.
+Leitura: a cada R\$ 100 vendidos, R\$ 40 sobram depois de fabricar o sorvete, R\$ 15 sobram da operação como um todo e **R\$ 7,70 chegam ao acionista**. Os juros consumiram R\$ 12 mi — se a empresa reduzir a dívida líquida de R\$ 60 mi que vimos na unidade 3, esse degrau devolve lucro direto ao acionista.
 
 ## Cuidados de leitura
 
@@ -71,7 +71,7 @@ Leitura: a cada R$ 100 vendidos, R$ 40 sobram depois de fabricar o sorvete, R$ 1
 
 ## PBL
 
-A lanchonete de João faturou R$ 20.000 no mês. Gastou R$ 9.000 com ingredientes e embalagens, R$ 5.000 com aluguel, salários e energia da loja, e paga R$ 1.200 de juros mensais de um empréstimo. Considere IR de 20% sobre o que sobrar. Monte a DRE da lanchonete no formato da escada, calcule as três margens e responda: se João quitasse o empréstimo, qual seria o novo lucro líquido? Vale mais a pena cortar custo de ingredientes em 10% ou quitar a dívida?
+A lanchonete de João faturou R\$ 20.000 no mês. Gastou R\$ 9.000 com ingredientes e embalagens, R\$ 5.000 com aluguel, salários e energia da loja, e paga R\$ 1.200 de juros mensais de um empréstimo. Considere IR de 20% sobre o que sobrar. Monte a DRE da lanchonete no formato da escada, calcule as três margens e responda: se João quitasse o empréstimo, qual seria o novo lucro líquido? Vale mais a pena cortar custo de ingredientes em 10% ou quitar a dívida?
 
 ## Resumo
 

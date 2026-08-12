@@ -23,7 +23,7 @@ Benjamin Graham, o pai da análise fundamentalista, resumiu assim: *"No curto pr
 
 ## Preço × valor: um exemplo do cotidiano
 
-Pense num apartamento que vale uns R$ 300.000 pelo padrão do bairro. Se o dono, com pressa de vender, pedir R$ 220.000, o **preço** está abaixo do **valor** — bom negócio para quem compra. Se pedir R$ 400.000, o preço está acima do valor — quem paga isso provavelmente vai se arrepender.
+Pense num apartamento que vale uns R\$ 300.000 pelo padrão do bairro. Se o dono, com pressa de vender, pedir R\$ 220.000, o **preço** está abaixo do **valor** — bom negócio para quem compra. Se pedir R\$ 400.000, o preço está acima do valor — quem paga isso provavelmente vai se arrepender.
 
 Com ações é igual, com uma diferença: o "dono" (o mercado) muda o preço todos os dias, às vezes por pânico, às vezes por euforia. O analista fundamentalista aproveita esses exageros em vez de ser levado por eles.
 
@@ -36,10 +36,10 @@ Com ações é igual, com uma diferença: o "dono" (o mercado) muda o preço tod
 
 ## Exemplo resolvido
 
-Duas empresas de sorvete têm ações custando R$ 10 cada.
+Duas empresas de sorvete têm ações custando R\$ 10 cada.
 
-- A **Sorvetes Tropical S.A.** lucra R$ 2 por ação ao ano e cresce todo ano.
-- A **Gelados Genéricos S.A.** lucra R$ 0,20 por ação e vive endividada.
+- A **Sorvetes Tropical S.A.** lucra R\$ 2 por ação ao ano e cresce todo ano.
+- A **Gelados Genéricos S.A.** lucra R\$ 0,20 por ação e vive endividada.
 
 O preço é o mesmo, mas o valor é claramente diferente: a Tropical devolve o preço da ação em lucro em 5 anos (10 ÷ 2); a Genéricos levaria 50 anos (10 ÷ 0,20). Só de olhar o lucro por ação, você já percebe que "ação barata" não é a de menor preço — é a que custa pouco **em relação ao que entrega**. É exatamente isso que os múltiplos da unidade 8 vão medir.
 
@@ -48,7 +48,7 @@ O preço é o mesmo, mas o valor é claramente diferente: a Tropical devolve o p
 1. Qual a diferença entre preço e valor de uma ação?
 2. O que significa a frase de Graham sobre a máquina de votar e a balança?
 3. O que é margem de segurança e por que ela protege o investidor?
-4. Por que uma ação de R$ 5 pode ser mais "cara" que uma de R$ 100?
+4. Por que uma ação de R\$ 5 pode ser mais "cara" que uma de R\$ 100?
 5. Cite duas coisas que a análise fundamentalista estuda além do preço da ação.
 
 ## PBL

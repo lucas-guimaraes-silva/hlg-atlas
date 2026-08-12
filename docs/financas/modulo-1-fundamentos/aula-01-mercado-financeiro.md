@@ -21,7 +21,7 @@ Investir não é "apertar botões em um app". Investir é decidir para onde seu 
 
 ## Exemplo resolvido
 
-Imagine que Ana investe R$ 1.000 por 30 anos a 10% ao ano.
+Imagine que Ana investe R\$ 1.000 por 30 anos a 10% ao ano.
 
 Com juros compostos, o dinheiro cresce assim:
 
@@ -54,7 +54,7 @@ O ponto importante não é decorar a fórmula agora. O ponto é entender a intui
 
 ## PBL
 
-João tem R$ 1.000 guardados na poupança. O Banco Central acabou de subir a taxa Selic.
+João tem R\$ 1.000 guardados na poupança. O Banco Central acabou de subir a taxa Selic.
 
 O que muda para João? Ele deveria continuar na poupança ou procurar outra alternativa? Por quê?
 

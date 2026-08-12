@@ -30,7 +30,7 @@ Uma empresa pode mostrar lucro na DRE e mesmo assim quebrar por falta de dinheir
 
 ## Exemplo resolvido
 
-DFC simplificada da **Sorvetes Tropical S.A.** (em R$ milhões), no mesmo ano da DRE da unidade 4:
+DFC simplificada da **Sorvetes Tropical S.A.** (em R\$ milhões), no mesmo ano da DRE da unidade 4:
 
 | Fluxo | Valor |
 |---|---:|
@@ -42,7 +42,7 @@ DFC simplificada da **Sorvetes Tropical S.A.** (em R$ milhões), no mesmo ano da
 Leitura:
 
 1. Lucro líquido foi 23; FCO foi 40. A diferença vem principalmente da **depreciação** (despesa que não sai do caixa) — sinal de contabilidade saudável, o lucro está "virando dinheiro".
-2. Fluxo de caixa livre = 40 − 25 = **R$ 15 mi**: sobra dinheiro depois de investir.
+2. Fluxo de caixa livre = 40 − 25 = **R\$ 15 mi**: sobra dinheiro depois de investir.
 3. FCF negativo (−10) porque pagou parcela da dívida e distribuiu dividendos — o padrão `+ − −` da empresa madura e saudável.
 
 ## Sinais de alerta clássicos
@@ -61,7 +61,7 @@ Leitura:
 
 ## PBL
 
-A loja virtual de Ana lucrou R$ 8.000 no papel neste trimestre. Mas: R$ 12.000 das vendas foram parceladas e ainda não caíram na conta, ela gastou R$ 6.000 comprando estoque para a Black Friday e pegou R$ 5.000 emprestados para fechar as contas do mês. Monte os três fluxos de caixa de Ana (operacional, investimento em estoque como aproximação, financiamento), estime a variação real do caixa e explique por que ela está sem dinheiro apesar do lucro. O negócio dela é inviável ou é um problema de prazo?
+A loja virtual de Ana lucrou R\$ 8.000 no papel neste trimestre. Mas: R\$ 12.000 das vendas foram parceladas e ainda não caíram na conta, ela gastou R\$ 6.000 comprando estoque para a Black Friday e pegou R\$ 5.000 emprestados para fechar as contas do mês. Monte os três fluxos de caixa de Ana (operacional, investimento em estoque como aproximação, financiamento), estime a variação real do caixa e explique por que ela está sem dinheiro apesar do lucro. O negócio dela é inviável ou é um problema de prazo?
 
 ## Resumo
 

@@ -30,7 +30,7 @@ Quanto menor o múltiplo, mais barato você paga por unidade de fundamento — *
 - **P/L 10** = você paga 10 anos de lucro atual. P/L alto embute expectativa de crescimento; P/L baixo embute desconfiança — descubra qual dos dois é o caso.
 - **P/VP abaixo de 1** = a ação vale menos na bolsa do que o patrimônio contábil. Ou é oportunidade, ou o mercado acha que esse patrimônio vale menos do que está no papel.
 - **EV/EBITDA** é o preferido para comparar empresas com dívidas diferentes, porque inclui a dívida no "preço". É o múltiplo mais usado em relatórios profissionais.
-- **DY de 6%** = a cada R$ 100 investidos, R$ 6 por ano em proventos — se os dividendos se mantiverem, o que depende do lucro.
+- **DY de 6%** = a cada R\$ 100 investidos, R\$ 6 por ano em proventos — se os dividendos se mantiverem, o que depende do lucro.
 
 ## As três regras de ouro dos múltiplos
 
@@ -40,7 +40,7 @@ Quanto menor o múltiplo, mais barato você paga por unidade de fundamento — *
 
 ## Exemplo resolvido
 
-A Sorvetes Tropical tem 100 milhões de ações a R$ 2,30 cada (valor de mercado = R$ 230 mi). Lucro 23, PL 250, EBITDA 62, dívida líquida 60, dividendos pagos no ano: R$ 9,2 mi.
+A Sorvetes Tropical tem 100 milhões de ações a R\$ 2,30 cada (valor de mercado = R\$ 230 mi). Lucro 23, PL 250, EBITDA 62, dívida líquida 60, dividendos pagos no ano: R\$ 9,2 mi.
 
 | Múltiplo | Conta | Resultado |
 |---|---|---:|

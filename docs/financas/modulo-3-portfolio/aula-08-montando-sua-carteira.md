@@ -16,11 +16,11 @@ Hora de juntar as sete unidades num processo único. Esta unidade percorre, pass
 
 ## Estudo de caso: a carteira de Marina
 
-Marina, 22 anos, primeiro emprego (CLT, R$ 3.500/mês), guarda R$ 700/mês. Custo de vida: R$ 2.500/mês.
+Marina, 22 anos, primeiro emprego (CLT, R\$ 3.500/mês), guarda R\$ 700/mês. Custo de vida: R\$ 2.500/mês.
 
-**Passo 1 — Reserva**: alvo de R$ 10.000 (4 meses). Ela já tem R$ 4.000 no Tesouro Selic; os primeiros meses de aporte completam a reserva antes de qualquer outra coisa.
+**Passo 1 — Reserva**: alvo de R\$ 10.000 (4 meses). Ela já tem R\$ 4.000 no Tesouro Selic; os primeiros meses de aporte completam a reserva antes de qualquer outra coisa.
 
-**Passo 2 — Perfil**: objetivos = intercâmbio em 3 anos (R$ 15.000) e independência financeira (décadas). Tolerância: média — no teste honesto, seguraria −15%, venderia em −40%.
+**Passo 2 — Perfil**: objetivos = intercâmbio em 3 anos (R\$ 15.000) e independência financeira (décadas). Tolerância: média — no teste honesto, seguraria −15%, venderia em −40%.
 
 **Passo 3 — Alocação**:
 

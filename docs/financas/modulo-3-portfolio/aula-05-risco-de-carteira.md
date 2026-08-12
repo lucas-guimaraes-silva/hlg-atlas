@@ -38,7 +38,7 @@ Volatilidade é abstrata; drawdown é visceral. Referências históricas aproxim
 | 60% RF / 40% ações | −15% a −25% |
 | 100% ações Brasil | −40% a −60% |
 
-Pergunta de calibragem (ligada à unidade 2): se seus R$ 10.000 virarem R$ 6.000 na tela por alguns meses, você segura ou vende? Sua resposta honesta limita sua fatia de renda variável melhor que qualquer questionário.
+Pergunta de calibragem (ligada à unidade 2): se seus R\$ 10.000 virarem R\$ 6.000 na tela por alguns meses, você segura ou vende? Sua resposta honesta limita sua fatia de renda variável melhor que qualquer questionário.
 
 ## Exemplo resolvido
 

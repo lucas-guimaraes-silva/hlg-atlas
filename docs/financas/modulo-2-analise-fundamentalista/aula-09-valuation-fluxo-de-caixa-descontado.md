@@ -6,7 +6,7 @@ Múltiplos comparam empresas entre si; o **fluxo de caixa descontado (FCD)** ten
 
 ## Ideia central
 
-R$ 100 daqui a um ano valem menos que R$ 100 hoje — você já sabe disso desde o Módulo 1 (juros e inflação). "Trazer a valor presente" é desfazer os juros: descobrir quanto um dinheiro futuro vale agora. Se a taxa de desconto é 10% ao ano:
+R\$ 100 daqui a um ano valem menos que R\$ 100 hoje — você já sabe disso desde o Módulo 1 (juros e inflação). "Trazer a valor presente" é desfazer os juros: descobrir quanto um dinheiro futuro vale agora. Se a taxa de desconto é 10% ao ano:
 
 $$
 VP = \frac{VF}{(1+i)^n} \qquad \Rightarrow \qquad \frac{110}{(1{,}10)^1} = 100
@@ -37,7 +37,7 @@ O valuation por FCD aplica essa conta a **todos** os fluxos de caixa futuros da 
 
 ## Exemplo resolvido
 
-FCD simplificado da Sorvetes Tropical. Fluxo de caixa livre atual: R$ 15 mi (unidade 5). Premissas conservadoras: crescimento de 4% ao ano por 5 anos, taxa de desconto de 14% (Tesouro ~10% + prêmio de risco 4%), perpetuidade sem crescimento real.
+FCD simplificado da Sorvetes Tropical. Fluxo de caixa livre atual: R\$ 15 mi (unidade 5). Premissas conservadoras: crescimento de 4% ao ano por 5 anos, taxa de desconto de 14% (Tesouro ~10% + prêmio de risco 4%), perpetuidade sem crescimento real.
 
 | Ano | FCL projetado | VP a 14% |
 |---:|---:|---:|
@@ -49,11 +49,11 @@ FCD simplificado da Sorvetes Tropical. Fluxo de caixa livre atual: R$ 15 mi (uni
 | Perpetuidade (18,2 ÷ 0,14, descontada) | 130,3 | 67,6 |
 | **Valor da operação** | | **≈ 125** |
 
-Do valor da operação, subtraímos a dívida líquida (60): valor para o acionista ≈ **R$ 65 mi**... bem abaixo dos R$ 230 mi de valor de mercado da unidade 8! O que isso significa? Com **essas** premissas conservadoras, o preço atual só se justifica se a empresa crescer bem mais ou recuperar margem. O FCD revelou o que o mercado está apostando — agora o analista julga se a aposta é razoável. É este confronto entre premissas e preço que a BRHSIC espera ver num bom relatório.
+Do valor da operação, subtraímos a dívida líquida (60): valor para o acionista ≈ **R\$ 65 mi**... bem abaixo dos R\$ 230 mi de valor de mercado da unidade 8! O que isso significa? Com **essas** premissas conservadoras, o preço atual só se justifica se a empresa crescer bem mais ou recuperar margem. O FCD revelou o que o mercado está apostando — agora o analista julga se a aposta é razoável. É este confronto entre premissas e preço que a BRHSIC espera ver num bom relatório.
 
 ## Mini quiz
 
-1. Por que R$ 100 futuros valem menos que R$ 100 hoje?
+1. Por que R\$ 100 futuros valem menos que R\$ 100 hoje?
 2. O que compõe uma taxa de desconto razoável?
 3. O que é a perpetuidade num FCD?
 4. Por que o FCD é sensível demais às premissas — e como se proteger disso?

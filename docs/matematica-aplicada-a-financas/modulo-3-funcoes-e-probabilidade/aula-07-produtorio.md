@@ -73,7 +73,7 @@ A soma ingênua daria 7% — a diferença parece pequena em 3 meses, mas em anos
 
 ## PBL
 
-Um influenciador postou: "Meu método rendeu 10% ao mês durante 6 meses. Total: 60%!". Verifique a afirmação com o produtório, calcule o valor correto e escreva um comentário educado (3–4 frases) corrigindo o erro e explicando por que a diferença entre somar e multiplicar retornos **aumenta** com o tempo. Bônus: mostre o que aconteceria com R$ 1.000 nos dois cálculos.
+Um influenciador postou: "Meu método rendeu 10% ao mês durante 6 meses. Total: 60%!". Verifique a afirmação com o produtório, calcule o valor correto e escreva um comentário educado (3–4 frases) corrigindo o erro e explicando por que a diferença entre somar e multiplicar retornos **aumenta** com o tempo. Bônus: mostre o que aconteceria com R\$ 1.000 nos dois cálculos.
 
 ## Resumo
 

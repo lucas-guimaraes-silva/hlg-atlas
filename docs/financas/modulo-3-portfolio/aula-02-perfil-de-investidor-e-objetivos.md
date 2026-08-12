@@ -37,11 +37,11 @@ O motivo: no curto prazo a bolsa é loteria; no longo prazo, as oscilações se 
 
 ## Exemplo resolvido
 
-Ana, 17 anos, tem três objetivos com R$ 6.000 guardados:
+Ana, 17 anos, tem três objetivos com R\$ 6.000 guardados:
 
-1. **Reserva de emergência** (R$ 2.000, uso imprevisível): Tesouro Selic. Sem discussão — liquidez e zero susto.
-2. **Intercâmbio em 2 anos** (R$ 3.000): CDB ou Tesouro Prefixado vencendo perto da viagem. Prazo casado, taxa travada.
-3. **Longo prazo / futuro** (R$ 1.000, sem data): aqui sim renda variável (ETF diversificado), porque há décadas pela frente.
+1. **Reserva de emergência** (R\$ 2.000, uso imprevisível): Tesouro Selic. Sem discussão — liquidez e zero susto.
+2. **Intercâmbio em 2 anos** (R\$ 3.000): CDB ou Tesouro Prefixado vencendo perto da viagem. Prazo casado, taxa travada.
+3. **Longo prazo / futuro** (R\$ 1.000, sem data): aqui sim renda variável (ETF diversificado), porque há décadas pela frente.
 
 Perceba: a mesma pessoa tem **três perfis ao mesmo tempo**, um por objetivo. Perfil não é rótulo fixo na testa; é função do objetivo e do prazo.
 

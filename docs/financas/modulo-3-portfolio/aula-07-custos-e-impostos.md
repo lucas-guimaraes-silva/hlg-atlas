@@ -16,19 +16,19 @@ Você não controla o retorno do mercado, mas **controla quase totalmente os cus
 | Taxa de performance | Percentual sobre o que exceder um índice de referência |
 | Come-cotas | Antecipação semestral de IR em muitos fundos (maio e novembro) |
 | IR regressivo (renda fixa) | 22,5% até 180 dias caindo a 15% acima de 720 dias |
-| IR em ações | 15% sobre o ganho em vendas comuns; vendas até R$ 20 mil/mês são isentas para pessoa física |
+| IR em ações | 15% sobre o ganho em vendas comuns; vendas até R\$ 20 mil/mês são isentas para pessoa física |
 | IR em FIIs | Rendimentos mensais isentos para pessoa física; ganho na venda de cotas tributado em 20% |
 | Isenções (LCI/LCA) | Isentas de IR para pessoa física — compare sempre pela taxa líquida |
 
 ## O estrago silencioso de 1% ao ano
 
-R$ 10.000 investidos por 30 anos a 10% ao ano:
+R\$ 10.000 investidos por 30 anos a 10% ao ano:
 
 | Custo anual | Valor final | O custo levou |
 |---:|---:|---:|
-| 0,2% (ETF barato) | ≈ R$ 165.000 | — |
-| 1,2% | ≈ R$ 125.000 | ~R$ 40.000 |
-| 2,2% | ≈ R$ 95.000 | ~R$ 70.000 |
+| 0,2% (ETF barato) | ≈ R\$ 165.000 | — |
+| 1,2% | ≈ R\$ 125.000 | ~R\$ 40.000 |
+| 2,2% | ≈ R\$ 95.000 | ~R\$ 70.000 |
 
 Dois pontos de taxa comeram **40% do resultado final**. É a mesma matemática dos juros compostos do Módulo 2 de Matemática — só que trabalhando contra você.
 
@@ -42,7 +42,7 @@ Dois pontos de taxa comeram **40% do resultado final**. É a mesma matemática d
 
 ## Exemplo resolvido
 
-João quer deixar R$ 5.000 por 3 anos e compara:
+João quer deixar R\$ 5.000 por 3 anos e compara:
 
 - **CDB 110% do CDI** (CDI 10% → 11% a.a. bruto). IR de 15% (>720 dias): líquido ≈ **9,35% a.a.**
 - **LCI 95% do CDI** → 9,5% a.a. **líquido** (isenta).
@@ -60,7 +60,7 @@ A LCI "de taxa menor" vence o CDB "de taxa maior", e o fundo — que parecia ino
 
 ## PBL
 
-Ana (17 anos) vai guardar R$ 200/mês por 10 anos e está em dúvida entre: (a) um fundo do banco com taxa de 2,5% a.a.; (b) montar ela mesma uma carteira com Tesouro e um ETF de taxa 0,2%; (c) uma LCI que rende "menos" que o fundo no papel. Estime qualitativamente (ou com contas aproximadas de juros compostos) a diferença de resultado em 10 anos entre (a) e (b), explique em que situação (c) pode vencer os dois, e escreva o argumento que Ana usaria para convencer o gerente — educadamente — de que não quer o fundo de 2,5%.
+Ana (17 anos) vai guardar R\$ 200/mês por 10 anos e está em dúvida entre: (a) um fundo do banco com taxa de 2,5% a.a.; (b) montar ela mesma uma carteira com Tesouro e um ETF de taxa 0,2%; (c) uma LCI que rende "menos" que o fundo no papel. Estime qualitativamente (ou com contas aproximadas de juros compostos) a diferença de resultado em 10 anos entre (a) e (b), explique em que situação (c) pode vencer os dois, e escreva o argumento que Ana usaria para convencer o gerente — educadamente — de que não quer o fundo de 2,5%.
 
 ## Resumo
 

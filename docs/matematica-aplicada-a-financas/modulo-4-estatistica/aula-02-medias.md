@@ -42,7 +42,7 @@ Os pesos são as proporções da carteira — é a conta que fizemos nos testes 
 
 ## Exemplo resolvido
 
-Carlos comprou a mesma ação em três meses: 100 ações a R$ 20, 200 a R$ 25 e 100 a R$ 30. Qual o **preço médio** de compra?
+Carlos comprou a mesma ação em três meses: 100 ações a R\$ 20, 200 a R\$ 25 e 100 a R\$ 30. Qual o **preço médio** de compra?
 
 Ponderada (pesos = quantidades):
 
@@ -71,7 +71,7 @@ A aritmética simples dos preços ($\frac{20+25+30}{3} = 25$) coincidiu por sort
 
 ## PBL
 
-Um fundo anuncia: "retorno médio de 12% ao ano nos últimos 4 anos!" Os retornos foram: +60%, −25%, +40%, −27%. Verifique se o "12%" é a média aritmética, calcule a média geométrica e o resultado acumulado de R$ 10.000 investidos, e escreva um parágrafo de "propaganda honesta" para o mesmo fundo — com o número que de fato representa a experiência do investidor.
+Um fundo anuncia: "retorno médio de 12% ao ano nos últimos 4 anos!" Os retornos foram: +60%, −25%, +40%, −27%. Verifique se o "12%" é a média aritmética, calcule a média geométrica e o resultado acumulado de R\$ 10.000 investidos, e escreva um parágrafo de "propaganda honesta" para o mesmo fundo — com o número que de fato representa a experiência do investidor.
 
 ## Resumo
 

@@ -2,7 +2,7 @@
 
 ## Comece aqui
 
-Uma **progressão aritmética** é uma fila de números em que cada termo é o anterior **mais uma constante**: 100, 150, 200, 250... A constante (aqui, 50) chama-se **razão**. Se você guarda R$ 50 por mês na gaveta, seu dinheiro forma uma PA. Simples assim — e com duas fórmulas, você calcula qualquer termo e qualquer soma sem contar nos dedos.
+Uma **progressão aritmética** é uma fila de números em que cada termo é o anterior **mais uma constante**: 100, 150, 200, 250... A constante (aqui, 50) chama-se **razão**. Se você guarda R\$ 50 por mês na gaveta, seu dinheiro forma uma PA. Simples assim — e com duas fórmulas, você calcula qualquer termo e qualquer soma sem contar nos dedos.
 
 ## Ideia central
 
@@ -43,7 +43,7 @@ $$
 
 ## Exemplo resolvido
 
-Carlos guarda na conta (sem render) R$ 200 no primeiro mês e aumenta R$ 20 a cada mês: 200, 220, 240...
+Carlos guarda na conta (sem render) R\$ 200 no primeiro mês e aumenta R\$ 20 a cada mês: 200, 220, 240...
 
 **Quanto ele deposita no 12º mês?**
 
@@ -64,8 +64,8 @@ Duas fórmulas, zero soma manual. Guarde a comparação para a próxima unidade:
 1. Na PA (7, 12, 17, ...), identifique $a_1$ e $r$, e calcule $a_{20}$.
 2. Uma dívida em juros simples gera montantes mensais 1.050, 1.100, 1.150, ... Qual a razão? Qual o montante no mês 18?
 3. Some os números de 1 a 100 usando a fórmula de Gauss.
-4. João deposita R$ 150 todo mês (sem juros). Quanto tem depois de 3 anos? A sequência de **saldos** é uma PA de qual razão?
-5. Num financiamento SAC, a primeira prestação é R$ 900 e cada uma cai R$ 15. Qual o valor da 24ª prestação? Quanto foi pago no total nas 24 primeiras?
+4. João deposita R\$ 150 todo mês (sem juros). Quanto tem depois de 3 anos? A sequência de **saldos** é uma PA de qual razão?
+5. Num financiamento SAC, a primeira prestação é R\$ 900 e cada uma cai R\$ 15. Qual o valor da 24ª prestação? Quanto foi pago no total nas 24 primeiras?
 6. Desafio: quantos termos da PA (5, 8, 11, ...) são necessários para a soma passar de 500?
 
 ??? note "Gabarito"
@@ -78,7 +78,7 @@ Duas fórmulas, zero soma manual. Guarde a comparação para a próxima unidade:
 
 ## PBL
 
-A prefeitura oferece dois planos de estágio de 24 meses: Plano A começa em R$ 800 com aumento de R$ 40 por mês; Plano B começa em R$ 1.000 fixo, sem aumento. Modele os salários mensais como sequências, descubra em que mês o A ultrapassa o B, calcule o total recebido em cada plano nos 24 meses e decida qual escolher — considerando também um cenário em que o estágio pode acabar no mês 10.
+A prefeitura oferece dois planos de estágio de 24 meses: Plano A começa em R\$ 800 com aumento de R\$ 40 por mês; Plano B começa em R\$ 1.000 fixo, sem aumento. Modele os salários mensais como sequências, descubra em que mês o A ultrapassa o B, calcule o total recebido em cada plano nos 24 meses e decida qual escolher — considerando também um cenário em que o estágio pode acabar no mês 10.
 
 ## Resumo
 

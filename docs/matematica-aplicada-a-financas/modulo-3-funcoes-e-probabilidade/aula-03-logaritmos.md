@@ -36,7 +36,7 @@ A propriedade 4 é o motivo de esta unidade existir: ela liberta o $t$ preso no 
 
 ## Resolvendo o tempo nos juros compostos
 
-Em quantos anos R$ 1.000 viram R$ 2.000 a 10% ao ano?
+Em quantos anos R\$ 1.000 viram R\$ 2.000 a 10% ao ano?
 
 $$
 1000 \cdot 1{,}10^t = 2000 \;\Rightarrow\; 1{,}10^t = 2
@@ -66,7 +66,7 @@ Doze anos de dinheiro no colchão = metade do poder de compra. O logaritmo trans
 2. Reescreva como logaritmo: $2^{10} = 1024$; $1{,}05^t = 3$.
 3. Use $\log 2 \approx 0{,}301$ e $\log 3 \approx 0{,}477$ para calcular $\log 6$ e $\log 8$ (só com as propriedades).
 4. A 12% ao ano, em quanto tempo um capital dobra? Resolva com logaritmo e confira com a regra do 72.
-5. Um investimento rende 0,9% ao mês. Em quantos meses R$ 5.000 chegam a R$ 8.000?
+5. Um investimento rende 0,9% ao mês. Em quantos meses R\$ 5.000 chegam a R\$ 8.000?
 6. Desafio: uma população de bactérias triplica a cada hora. Depois de quanto tempo ela é 100 vezes a inicial?
 
 ??? note "Gabarito"

@@ -2,7 +2,7 @@
 
 ## Comece aqui
 
-Dez pessoas num bar ganham R$ 2.000 por mês. Entra um bilionário. A **média** salarial do bar vira dezenas de milhões — mas ninguém ali ficou mais rico. Quando os dados têm valores extremos, a média deixa de representar o "típico". Para isso existem a **mediana** e a **moda**.
+Dez pessoas num bar ganham R\$ 2.000 por mês. Entra um bilionário. A **média** salarial do bar vira dezenas de milhões — mas ninguém ali ficou mais rico. Quando os dados têm valores extremos, a média deixa de representar o "típico". Para isso existem a **mediana** e a **moda**.
 
 ## Ideia central
 
@@ -49,7 +49,7 @@ O mês típico do fundo foi +2% — mas **um único mês de crise** tornou a exp
 
 1. Encontre média, mediana e moda de: 5, 7, 7, 8, 10, 12, 50.
 2. No problema 1, remova o 50 e recalcule. Qual medida mudou mais? Por quê?
-3. Salários numa startup (R$ mil): 3, 3, 3, 4, 4, 5, 45 (o fundador). Qual medida representa melhor o funcionário típico?
+3. Salários numa startup (R\$ mil): 3, 3, 3, 4, 4, 5, 45 (o fundador). Qual medida representa melhor o funcionário típico?
 4. Uma amostra tem média 8 e mediana 12. Que tipo de assimetria isso sugere? Dê um exemplo financeiro compatível.
 5. Retornos anuais: 8%, 9%, 7%, 8%, −35%, 9%. Calcule média e mediana e interprete a diferença em uma frase.
 6. Desafio: invente uma série de 7 retornos em que a média seja positiva mas a mediana negativa. O que essa carteira faria com o psicológico do investidor?
@@ -57,7 +57,7 @@ O mês típico do fundo foi +2% — mas **um único mês de crise** tornou a exp
 ??? note "Gabarito"
     1. Média = 99/7 ≈ 14,1; mediana = 8; moda = 7.
     2. Sem o 50: média = 49/6 ≈ 8,2 (despencou); mediana = 7,5 (quase igual). A média é sensível ao outlier.
-    3. Mediana (R$ 4 mil) — a média (≈ R$ 9,6 mil) é fantasia para quem não é o fundador.
+    3. Mediana (R\$ 4 mil) — a média (≈ R\$ 9,6 mil) é fantasia para quem não é o fundador.
     4. Média << mediana: assimetria à esquerda; ex.: retornos com um ano de crash raro e profundo.
     5. Média = 1%; mediana = 8%. "O ano típico foi bom, mas um desastre raro consumiu quase todo o acumulado."
     6. Ex.: −1, −1, −1, −2, −1, +3, +40 → mediana = −1, média = +5,3. O investidor perde na maioria dos períodos e precisa de estômago para esperar o raro mês gigante — pouquíssimos aguentam.

@@ -43,9 +43,9 @@ Repare no padrão: o que muda de um perfil para outro é o peso de **renda vari�
 
 ## Exemplo resolvido
 
-Ana (unidade 2) vai investir R$ 500 por mês para o longo prazo, perfil moderado. Carteira-alvo: 35% pós, 25% IPCA+, 10% pré, 15% ações BR, 10% internacional, 5% FIIs.
+Ana (unidade 2) vai investir R\$ 500 por mês para o longo prazo, perfil moderado. Carteira-alvo: 35% pós, 25% IPCA+, 10% pré, 15% ações BR, 10% internacional, 5% FIIs.
 
-Aporte mensal: R$ 175 no Tesouro Selic, R$ 125 no IPCA+, R$ 50 no prefixado, R$ 75 num ETF Brasil, R$ 50 num ETF global, R$ 25 num FII diversificado. Seis ordens simples, repetidas todo mês. Quando ela dominar o Módulo 2 e quiser apostar numa empresa específica, essa posição entra como **satélite** dentro dos 15% de ações — sem quebrar o esqueleto.
+Aporte mensal: R\$ 175 no Tesouro Selic, R\$ 125 no IPCA+, R\$ 50 no prefixado, R\$ 75 num ETF Brasil, R\$ 50 num ETF global, R\$ 25 num FII diversificado. Seis ordens simples, repetidas todo mês. Quando ela dominar o Módulo 2 e quiser apostar numa empresa específica, essa posição entra como **satélite** dentro dos 15% de ações — sem quebrar o esqueleto.
 
 ## Mini quiz
 

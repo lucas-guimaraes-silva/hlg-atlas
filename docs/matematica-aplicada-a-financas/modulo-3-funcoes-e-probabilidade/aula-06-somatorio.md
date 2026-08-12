@@ -37,7 +37,7 @@ $$
 \sum_{t=1}^{3} \frac{100}{(1{,}10)^t} = \frac{100}{1{,}10} + \frac{100}{1{,}21} + \frac{100}{1{,}331} \approx 90{,}91 + 82{,}64 + 75{,}13 = 248{,}68
 $$
 
-O segundo exemplo é **literalmente o valor presente de três fluxos de caixa de R$ 100** descontados a 10% — a fórmula central do valuation (Módulo 2 de Finanças), agora legível.
+O segundo exemplo é **literalmente o valor presente de três fluxos de caixa de R\$ 100** descontados a 10% — a fórmula central do valuation (Módulo 2 de Finanças), agora legível.
 
 ## As fórmulas de finanças em notação Σ
 
@@ -57,7 +57,7 @@ Quando você encontrar essas fórmulas num livro (Assaf Neto, CFA), já não sã
 
 ## Exemplo resolvido
 
-Um food truck projeta lucros de R$ 2.000 no mês 1, crescendo R$ 500 por mês, durante 6 meses. Escreva o total em notação de somatório e calcule.
+Um food truck projeta lucros de R\$ 2.000 no mês 1, crescendo R\$ 500 por mês, durante 6 meses. Escreva o total em notação de somatório e calcule.
 
 O lucro do mês $k$ é $a_k = 2000 + 500(k-1)$ (uma PA!). Total:
 
@@ -86,7 +86,7 @@ Usei as duas propriedades: a constante somada 6 vezes e a constante multiplicati
 
 ## PBL
 
-Sua escola quer arrecadar fundos vendendo doces por 10 semanas. O plano prevê vender 40 doces na semana 1 e crescer 15% por semana (lucro de R$ 2 por doce). Escreva o lucro total em notação de somatório, identifique que tipo de progressão está dentro do Σ, calcule o total com a fórmula apropriada da unidade 5 e apresente o resultado num mini-relatório de 5 linhas para a coordenação — incluindo a fórmula, para impressionar.
+Sua escola quer arrecadar fundos vendendo doces por 10 semanas. O plano prevê vender 40 doces na semana 1 e crescer 15% por semana (lucro de R\$ 2 por doce). Escreva o lucro total em notação de somatório, identifique que tipo de progressão está dentro do Σ, calcule o total com a fórmula apropriada da unidade 5 e apresente o resultado num mini-relatório de 5 linhas para a coordenação — incluindo a fórmula, para impressionar.
 
 ## Resumo
 

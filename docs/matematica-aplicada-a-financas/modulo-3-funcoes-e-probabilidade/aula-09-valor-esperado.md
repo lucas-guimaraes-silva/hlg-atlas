@@ -26,13 +26,13 @@ Reconheceu o Σ da unidade 6? Cada cenário $x_k$ entra multiplicado pela sua pr
 
 ## O exemplo que vacina contra loteria
 
-Uma rifa custa R$ 10, tem 1.000 bilhetes e um prêmio de R$ 6.000:
+Uma rifa custa R\$ 10, tem 1.000 bilhetes e um prêmio de R\$ 6.000:
 
 $$
 E[X] = \frac{1}{1000}(6000 - 10) + \frac{999}{1000}(-10) = 5{,}99 - 9{,}99 = -R\$\,4{,}00
 $$
 
-Cada bilhete "vale" −R$ 4: quem joga muitas vezes perde, em média, R$ 4 por jogada. Loterias reais são ainda piores. Diversão pode justificar; matemática, nunca.
+Cada bilhete "vale" −R\$ 4: quem joga muitas vezes perde, em média, R\$ 4 por jogada. Loterias reais são ainda piores. Diversão pode justificar; matemática, nunca.
 
 ## Análise de cenários: o valor esperado do analista
 
@@ -50,10 +50,10 @@ $$
 
 ## Exemplo resolvido
 
-João pode escolher entre dois projetos para investir R$ 1.000:
+João pode escolher entre dois projetos para investir R\$ 1.000:
 
-- **Projeto A**: 90% de chance de ganhar R$ 200; 10% de perder R$ 100.
-- **Projeto B**: 30% de chance de ganhar R$ 1.500; 70% de perder R$ 300.
+- **Projeto A**: 90% de chance de ganhar R\$ 200; 10% de perder R\$ 100.
+- **Projeto B**: 30% de chance de ganhar R\$ 1.500; 70% de perder R\$ 300.
 
 $$
 E[A] = 0{,}9(200) + 0{,}1(-100) = 180 - 10 = +R\$\,170
@@ -63,24 +63,24 @@ $$
 E[B] = 0{,}3(1500) + 0{,}7(-300) = 450 - 210 = +R\$\,240
 $$
 
-B tem valor esperado maior — mas 70% de chance de perder. E agora? O valor esperado **não é o único critério**: se João só tem esses R$ 1.000 e não pode perder, A é a escolha racional; se é uma aposta pequena e repetível dentro de uma carteira, B compensa mais no longo prazo. $E[X]$ informa; o **perfil e o tamanho da aposta** (Módulo 3 de Finanças) decidem. Matemática e gestão de risco andam juntas.
+B tem valor esperado maior — mas 70% de chance de perder. E agora? O valor esperado **não é o único critério**: se João só tem esses R\$ 1.000 e não pode perder, A é a escolha racional; se é uma aposta pequena e repetível dentro de uma carteira, B compensa mais no longo prazo. $E[X]$ informa; o **perfil e o tamanho da aposta** (Módulo 3 de Finanças) decidem. Matemática e gestão de risco andam juntas.
 
 ## Lista de problemas
 
-1. Um dado paga R$ 60 se sair 6 e nada nos demais. Qual o valor esperado do jogo? Quanto seria justo pagar para jogar?
+1. Um dado paga R\$ 60 se sair 6 e nada nos demais. Qual o valor esperado do jogo? Quanto seria justo pagar para jogar?
 2. Calcule $E[X]$: 40% de chance de +10%; 60% de chance de −5%.
-3. Um seguro de celular custa R$ 150/ano. A chance de sinistro é 8%, com prejuízo médio de R$ 1.400. Qual o $E[X]$ de **não** fazer o seguro? E o de fazer? O que a diferença representa para a seguradora?
+3. Um seguro de celular custa R\$ 150/ano. A chance de sinistro é 8%, com prejuízo médio de R\$ 1.400. Qual o $E[X]$ de **não** fazer o seguro? E o de fazer? O que a diferença representa para a seguradora?
 4. Monte o retorno esperado: cenário bom (30%, +25%), neutro (50%, +8%), ruim (20%, −20%).
-5. Uma aposta tem $E[X] = +R\$\,50$, mas 95% de chance de perder R$ 100. Descreva o payoff do cenário de ganho e explique por que alguém racional poderia recusá-la mesmo com $E[X] > 0$.
-6. Desafio: um bilhete de loteria custa R$ 5 e o $E[X]$ é −R$ 3,50. Se 10 milhões de bilhetes são vendidos, quanto a loteria arrecada líquido, em média?
+5. Uma aposta tem $E[X] = +R\$\,50$, mas 95% de chance de perder R\$ 100. Descreva o payoff do cenário de ganho e explique por que alguém racional poderia recusá-la mesmo com $E[X] > 0$.
+6. Desafio: um bilhete de loteria custa R\$ 5 e o $E[X]$ é −R\$ 3,50. Se 10 milhões de bilhetes são vendidos, quanto a loteria arrecada líquido, em média?
 
 ??? note "Gabarito"
-    1. $E = \frac{1}{6}(60) = R\$\,10$; jogar custando até R$ 10 é justo (abaixo, vantajoso).
+    1. $E = \frac{1}{6}(60) = R\$\,10$; jogar custando até R\$ 10 é justo (abaixo, vantajoso).
     2. $0{,}4(10) + 0{,}6(-5) = 4 - 3 = +1\%$.
-    3. Sem seguro: $0{,}08(-1400) = -R\$\,112$/ano. Com seguro: −R$ 150 fixos. A diferença (R$ 38) é o lucro esperado + custos da seguradora — e o preço da sua tranquilidade.
+    3. Sem seguro: $0{,}08(-1400) = -R\$\,112$/ano. Com seguro: −R\$ 150 fixos. A diferença (R\$ 38) é o lucro esperado + custos da seguradora — e o preço da sua tranquilidade.
     4. $7{,}5 + 4 - 4 = +7{,}5\%$.
     5. Para $E = 50$: $0{,}05 \cdot G + 0{,}95(-100) = 50 \Rightarrow G = R\$\,2.900$. Recusável porque quase sempre se perde — sem capital para repetir a aposta muitas vezes, a "média" nunca chega.
-    6. Perda média por bilhete = R$ 3,50 → arrecadação líquida ≈ R$ 35 milhões.
+    6. Perda média por bilhete = R\$ 3,50 → arrecadação líquida ≈ R\$ 35 milhões.
 
 ## PBL — projeto final do módulo
 

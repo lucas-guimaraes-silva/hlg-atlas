@@ -2,7 +2,7 @@
 
 ## Comece aqui
 
-O balanço patrimonial é uma **fotografia** da empresa em uma data: tudo o que ela **tem** (ativos), tudo o que ela **deve** (passivos) e o que sobra para os donos (patrimônio líquido). É a mesma lógica da sua vida: se você tem R$ 1.000 no banco e uma bicicleta de R$ 800, mas deve R$ 500 no cartão, seu "patrimônio líquido" é R$ 1.300.
+O balanço patrimonial é uma **fotografia** da empresa em uma data: tudo o que ela **tem** (ativos), tudo o que ela **deve** (passivos) e o que sobra para os donos (patrimônio líquido). É a mesma lógica da sua vida: se você tem R\$ 1.000 no banco e uma bicicleta de R\$ 800, mas deve R\$ 500 no cartão, seu "patrimônio líquido" é R\$ 1.300.
 
 ## Ideia central
 
@@ -37,7 +37,7 @@ O que um analista procura primeiro:
 
 ## Exemplo resolvido
 
-Balanço simplificado da **Sorvetes Tropical S.A.** (em R$ milhões):
+Balanço simplificado da **Sorvetes Tropical S.A.** (em R\$ milhões):
 
 | Ativo | | Passivo + PL | |
 |---|---:|---|---:|
@@ -51,7 +51,7 @@ Balanço simplificado da **Sorvetes Tropical S.A.** (em R$ milhões):
 Leitura rápida:
 
 1. A equação fecha: 400 = 150 + 250. ✓
-2. Dívida bruta = 30 + 80 = **R$ 110 mi**; dívida líquida = 110 − 50 = **R$ 60 mi**.
+2. Dívida bruta = 30 + 80 = **R\$ 110 mi**; dívida líquida = 110 − 50 = **R\$ 60 mi**.
 3. O PL (250) é bem maior que a dívida líquida (60): estrutura de capital confortável.
 4. A maior parte do ativo está em fábricas e frota (250 de 400) — coerente com a vantagem competitiva de distribuição que vimos na unidade 2.
 
@@ -65,7 +65,7 @@ Leitura rápida:
 
 ## PBL
 
-Ana montou o "balanço pessoal" dela: R$ 2.000 na poupança, um notebook de R$ 3.000, uma dívida de R$ 4.500 no cartão (vence este mês) e R$ 6.000 de um financiamento de curso (vence em 3 anos). Monte o balanço de Ana no formato da unidade (circulante × não circulante), calcule o patrimônio líquido dela e diagnostique: o problema de Ana é de **patrimônio** ou de **prazo**? O que ela poderia negociar para melhorar a situação sem ganhar um real a mais?
+Ana montou o "balanço pessoal" dela: R\$ 2.000 na poupança, um notebook de R\$ 3.000, uma dívida de R\$ 4.500 no cartão (vence este mês) e R\$ 6.000 de um financiamento de curso (vence em 3 anos). Monte o balanço de Ana no formato da unidade (circulante × não circulante), calcule o patrimônio líquido dela e diagnostique: o problema de Ana é de **patrimônio** ou de **prazo**? O que ela poderia negociar para melhorar a situação sem ganhar um real a mais?
 
 ## Resumo
 
